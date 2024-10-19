@@ -1,7 +1,6 @@
 import pytest
 
 
-
 @pytest.fixture(scope="function")
 def github_events():
     return [
