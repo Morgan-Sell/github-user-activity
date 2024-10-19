@@ -3,3 +3,4 @@ isort
 pytest
 ruff
 requests
+python-dotenv

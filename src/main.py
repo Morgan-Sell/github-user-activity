@@ -1,6 +1,11 @@
+import os
+
 import requests
+from dotenv import load_dotenv
 
 from src.config import GITHUB_API_URL
+
+load_dotenv()
 
 
 def main():
@@ -13,7 +18,7 @@ def main():
     if response.status_code == 200:
 
         user_data = response.json()
-
+        print(type(user_data))
         # Print out some user information
         print(f"Username: {user_data['login']}")
         print(f"Name: {user_data.get('name', 'N/A')}")
