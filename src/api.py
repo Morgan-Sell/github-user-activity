@@ -1,25 +1,53 @@
 import os
 from typing import Dict, List
 
-import requests
-from dotenv import load_dotenv
+import json
+import urllib
 
 from src.config import GITHUB_API_URL
+from src.custom_errors import (
+    APIConnectionError,
+    GitHubAPIError,
+    JSONParseError,
+    UnauthorizedError,
+    UnhandledError,
+    UsernameNotFoundError,
+)
 
 
 def get_user_events(username: str, github_token: str) -> List[Dict]:
-
-    headers = {"Authorization": f"token {github_token}"}
+    # create request object with token
     url = f"{GITHUB_API_URL}{username}/events"
+    req = urllib.request.Request(url)
+    req.add_header("Authorization", f"token {github_token}")
 
-    response = requests.get(url, headers=headers)
+    try:
+        with urllib.request.urlopen(req) as response:
+            data = response.read()
+            events = json.loads(data)
 
-    if response.status_code == 200:
-        return response.json()
-    elif response.status_code == 401:
-        raise Exception("GitHub token is invalid or has expired.")
-    else:
-        raise Exception(f"API request failed with status code {response.status_code}.")
+        return events
+
+    except urllib.error.HTTPError as e:
+        print("Error code: ", e.code)
+        if e.code == 401:
+            raise UnauthorizedError("Unauthorized: Check your GitHub token.")
+        elif e.code == 404:
+            raise UsernameNotFoundError(f"Username {username} does not exist.")
+        else:
+            raise GitHubAPIError(f"HTTP error: {e.code} {e.reason}")
+
+    except urllib.error.URLError as e:
+        print("Error code: ", e.code)
+        raise APIConnectionError(f"Connection error: {e.reason}")
+
+    except urllib.error.JSONDecodeError as e:
+        print("Error code: ", e.code)
+        raise JSONParseError(f"JSON parsing error: {e}")
+
+    except Exception as e:
+        print("Error code: ", e.code)
+        raise UnhandledError(f"An unexpected error occured: {e}")
 
 
 def get_user_events_by_type(
