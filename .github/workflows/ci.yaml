@@ -9,7 +9,7 @@ on:
       - main
       
 jobs:
-  lint-and-format:
+  lint-check-and-test:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,7 +34,7 @@ jobs:
       run: pytest --cov-report=html # outputs coverage report to htmlcov
     
     - name: Upload coverage report as an artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: coverage-report
         path: htmlcov
