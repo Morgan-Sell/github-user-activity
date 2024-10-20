@@ -2,7 +2,7 @@ import os
 from typing import Dict, List
 
 import json
-from urllib import request, error
+from urllib import request, error, parse
 
 from src.config import GITHUB_API_URL
 from src.custom_errors import (
@@ -17,7 +17,10 @@ from src.custom_errors import (
 
 def get_user_events(username: str, github_token: str) -> List[Dict]:
     # create request object with token
-    url = f"{GITHUB_API_URL}{username}/events"
+    base_url = f"{GITHUB_API_URL}{username}/events"
+    params = {"per_page": 100}
+    query_string = parse.urlencode(params)
+    url = f"{base_url}?{query_string}"
     req = request.Request(url)
     req.add_header("Authorization", f"token {github_token}")
 

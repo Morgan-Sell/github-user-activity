@@ -45,7 +45,7 @@ def test_get_user_events_raises_404_exception(mock_urlopen):
         code=404,
         msg="Not Found",
         hdrs=None,
-        fp=None
+        fp=None,
     )
 
     username = "internet_troll"
@@ -96,7 +96,7 @@ def test_get_user_events_by_type_raises_401_exception(mock_urlopen):
         code=401,
         msg="Unauthorized",
         hdrs=None,
-        fp=None
+        fp=None,
     )
 
     username = "ai_bot"

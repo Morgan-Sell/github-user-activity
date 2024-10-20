@@ -1,0 +1,32 @@
+{
+    "PushEvent": [
+        "repository_id",
+        "push_id",
+        "size",
+        "distinct_size",
+        "ref",
+        "head",
+        "before",
+        "commits"
+    ],
+    "PullRequestEvent": [
+        "action",
+        "number",
+        "pull_request"
+    ],
+    "CreateEvent": [
+        "ref",
+        "ref_type",
+        "master_branch",
+        "description",
+        "pusher_type"
+    ],
+    "WatchEvent": [
+        "action"
+    ],
+    "PullRequestReviewEvent": [
+        "action",
+        "review",
+        "pull_request"
+    ]
+}

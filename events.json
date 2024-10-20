@@ -1,690 +1,217 @@
 [
     {
-        "id": "43010765148",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 1517444,
-            "login": "ashwin47",
-            "display_login": "ashwin47",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ashwin47",
-            "avatar_url": "https://avatars.githubusercontent.com/u/1517444?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-19T19:03:10Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "43007974941",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 63132189,
-            "login": "juand-gv",
-            "display_login": "juand-gv",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/juand-gv",
-            "avatar_url": "https://avatars.githubusercontent.com/u/63132189?"
-        },
-        "repo": {
-            "id": 627401381,
-            "name": "ArjanCodes/2023-pandera",
-            "url": "https://api.github.com/repos/ArjanCodes/2023-pandera"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-19T14:52:11Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "43005373702",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 62971995,
-            "login": "adRn-s",
-            "display_login": "adRn-s",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/adRn-s",
-            "avatar_url": "https://avatars.githubusercontent.com/u/62971995?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-19T10:43:03Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42994086606",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 81309352,
-            "login": "kanyijr",
-            "display_login": "kanyijr",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/kanyijr",
-            "avatar_url": "https://avatars.githubusercontent.com/u/81309352?"
-        },
-        "repo": {
-            "id": 501989959,
-            "name": "ArjanCodes/2022-asyncio",
-            "url": "https://api.github.com/repos/ArjanCodes/2022-asyncio"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-18T18:57:02Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42961523061",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 87194753,
-            "login": "shane-beaumont",
-            "display_login": "shane-beaumont",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/shane-beaumont",
-            "avatar_url": "https://avatars.githubusercontent.com/u/87194753?"
-        },
-        "repo": {
-            "id": 596641378,
-            "name": "ArjanCodes/2023-fastapi",
-            "url": "https://api.github.com/repos/ArjanCodes/2023-fastapi"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-17T21:30:39Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42961519826",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 87194753,
-            "login": "shane-beaumont",
-            "display_login": "shane-beaumont",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/shane-beaumont",
-            "avatar_url": "https://avatars.githubusercontent.com/u/87194753?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-17T21:30:31Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42933531143",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 50773789,
-            "login": "BishalN",
-            "display_login": "BishalN",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/BishalN",
-            "avatar_url": "https://avatars.githubusercontent.com/u/50773789?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-17T07:34:38Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42933493347",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 50773789,
-            "login": "BishalN",
-            "display_login": "BishalN",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/BishalN",
-            "avatar_url": "https://avatars.githubusercontent.com/u/50773789?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-17T07:33:26Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42927195740",
-        "type": "ForkEvent",
-        "actor": {
-            "id": 43675849,
-            "login": "RRavala",
-            "display_login": "RRavala",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/RRavala",
-            "avatar_url": "https://avatars.githubusercontent.com/u/43675849?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "forkee": {
-                "id": 873957519,
-                "node_id": "R_kgDONBeIjw",
-                "name": "betterpython",
-                "full_name": "RRavala/betterpython",
-                "private": false,
-                "public": true
-            }
-        },
-        "public": true,
-        "created_at": "2024-10-17T02:28:23Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42900449515",
+        "id": "42973813894",
         "type": "PushEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "repository_id": 343068907,
-            "push_id": 20739318265,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/2024-grpc-rest",
-            "head": "188492c83aa48ac499275f5887e94a3c573d7a93",
-            "before": "9d810940190a86275c61765fafcf5f8904298681",
-            "commits": [
-                {
-                    "sha": "188492c83aa48ac499275f5887e94a3c573d7a93",
-                    "author": {
-                        "email": "andreas@arjancodes.com",
-                        "name": "Andreas Bergman"
-                    },
-                    "message": "Init example",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/188492c83aa48ac499275f5887e94a3c573d7a93"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-16T11:01:13Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42896987939",
-        "type": "PushEvent",
-        "actor": {
-            "id": 2195171,
-            "login": "egges",
-            "display_login": "egges",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/egges",
-            "avatar_url": "https://avatars.githubusercontent.com/u/2195171?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "repository_id": 343068907,
-            "push_id": 20737656940,
-            "size": 1,
+            "repository_id": 863965641,
+            "push_id": 20775701253,
+            "size": 2,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "0b8c8ab74908be5ed9239fcdaed875548d3f595c",
-            "before": "05bcb99c1a244c14472cbfec4714723481b12c1f",
+            "head": "6fb1430e56a450328aa94ee04de8e930c60a9c1b",
+            "before": "cfc87e27cea69bce78d4c5e2717a30832534b452",
             "commits": [
                 {
-                    "sha": "0b8c8ab74908be5ed9239fcdaed875548d3f595c",
+                    "sha": "c4e0ef044e7674c112e18a48b353d0e5922e563c",
                     "author": {
-                        "email": "ABDreos@users.noreply.github.com",
-                        "name": "ABDreos"
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
                     },
-                    "message": "Code formatted with Ruff",
+                    "message": "Add monitoring with Elasticsearch and Kibana",
+                    "distinct": false,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/c4e0ef044e7674c112e18a48b353d0e5922e563c"
+                },
+                {
+                    "sha": "6fb1430e56a450328aa94ee04de8e930c60a9c1b",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Pau Labarta Bajo"
+                    },
+                    "message": "Merge pull request #3 from Paulescu/dev\n\nAdd monitoring with Elasticsearch and Kibana",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/0b8c8ab74908be5ed9239fcdaed875548d3f595c"
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/6fb1430e56a450328aa94ee04de8e930c60a9c1b"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-10-16T09:23:32Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-18T08:10:30Z"
     },
     {
-        "id": "42896982799",
-        "type": "PushEvent",
-        "actor": {
-            "id": 2195171,
-            "login": "egges",
-            "display_login": "egges",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/egges",
-            "avatar_url": "https://avatars.githubusercontent.com/u/2195171?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "repository_id": 343068907,
-            "push_id": 20737654444,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/2024-duplication",
-            "head": "e877e1e0f874f122446261f71147925d2868e5f8",
-            "before": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
-            "commits": [
-                {
-                    "sha": "e877e1e0f874f122446261f71147925d2868e5f8",
-                    "author": {
-                        "email": "ABDreos@users.noreply.github.com",
-                        "name": "ABDreos"
-                    },
-                    "message": "Code formatted with Ruff",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/e877e1e0f874f122446261f71147925d2868e5f8"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-16T09:23:24Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42896973476",
-        "type": "PushEvent",
-        "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "repository_id": 343068907,
-            "push_id": 20737650246,
-            "size": 4,
-            "distinct_size": 4,
-            "ref": "refs/heads/main",
-            "head": "05bcb99c1a244c14472cbfec4714723481b12c1f",
-            "before": "1f03e479929eaac436ae43d9c4263c3e87435313",
-            "commits": [
-                {
-                    "sha": "77bf6ebb60c6d91561c570d400951162e7d50135",
-                    "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
-                    },
-                    "message": "Added first duplication examples.",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/77bf6ebb60c6d91561c570d400951162e7d50135"
-                },
-                {
-                    "sha": "65a55469e9544ac4698b5c6a44f129b24ed2e3c5",
-                    "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
-                    },
-                    "message": "Added bragir refactoring example.",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/65a55469e9544ac4698b5c6a44f129b24ed2e3c5"
-                },
-                {
-                    "sha": "56628dae266b3c982725c5f4737e456403526d4b",
-                    "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
-                    },
-                    "message": "Minor update to duplication example",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/56628dae266b3c982725c5f4737e456403526d4b"
-                },
-                {
-                    "sha": "05bcb99c1a244c14472cbfec4714723481b12c1f",
-                    "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
-                    },
-                    "message": "Added going too far with removing duplication.",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/05bcb99c1a244c14472cbfec4714723481b12c1f"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-16T09:23:09Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42896972928",
+        "id": "42973813521",
         "type": "PullRequestEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
             "action": "closed",
-            "number": 54,
+            "number": 3,
             "pull_request": {
-                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54",
-                "id": 2127316304,
-                "node_id": "PR_kwDOFHLQ685-zEVQ",
-                "html_url": "https://github.com/ArjanCodes/examples/pull/54",
-                "diff_url": "https://github.com/ArjanCodes/examples/pull/54.diff",
-                "patch_url": "https://github.com/ArjanCodes/examples/pull/54.patch",
-                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54",
-                "number": 54,
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3",
+                "id": 2131852866,
+                "node_id": "PR_kwDOM38Ryc5_EX5C",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3",
+                "number": 3,
                 "state": "closed",
                 "locked": false,
-                "title": "2024 duplication",
+                "title": "Add monitoring with Elasticsearch and Kibana",
                 "user": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
                     "type": "User",
+                    "user_view_type": "public",
                     "site_admin": false
                 },
                 "body": null,
-                "created_at": "2024-10-16T09:23:00Z",
-                "updated_at": "2024-10-16T09:23:07Z",
-                "closed_at": "2024-10-16T09:23:07Z",
-                "merged_at": "2024-10-16T09:23:07Z",
-                "merge_commit_sha": "05bcb99c1a244c14472cbfec4714723481b12c1f",
-                "assignee": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
-                    "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
-                    "type": "User",
-                    "site_admin": false
-                },
-                "assignees": [
-                    {
-                        "login": "ABDreos",
-                        "id": 150030839,
-                        "node_id": "U_kgDOCPFJ9w",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
-                        "gravatar_id": "",
-                        "url": "https://api.github.com/users/ABDreos",
-                        "html_url": "https://github.com/ABDreos",
-                        "followers_url": "https://api.github.com/users/ABDreos/followers",
-                        "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                        "repos_url": "https://api.github.com/users/ABDreos/repos",
-                        "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ABDreos/received_events",
-                        "type": "User",
-                        "site_admin": false
-                    }
-                ],
+                "created_at": "2024-10-18T08:09:38Z",
+                "updated_at": "2024-10-18T08:10:29Z",
+                "closed_at": "2024-10-18T08:10:29Z",
+                "merged_at": "2024-10-18T08:10:29Z",
+                "merge_commit_sha": "6fb1430e56a450328aa94ee04de8e930c60a9c1b",
+                "assignee": null,
+                "assignees": [],
                 "requested_reviewers": [],
                 "requested_teams": [],
                 "labels": [],
                 "milestone": null,
                 "draft": false,
-                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits",
-                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments",
-                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
-                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments",
-                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/c4e0ef044e7674c112e18a48b353d0e5922e563c",
                 "head": {
-                    "label": "ArjanCodes:2024-duplication",
-                    "ref": "2024-duplication",
-                    "sha": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                    "label": "Paulescu:dev",
+                    "ref": "dev",
+                    "sha": "c4e0ef044e7674c112e18a48b353d0e5922e563c",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "base": {
-                    "label": "ArjanCodes:main",
+                    "label": "Paulescu:main",
                     "ref": "main",
-                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "sha": "cfc87e27cea69bce78d4c5e2717a30832534b452",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "_links": {
                     "self": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3"
                     },
                     "html": {
-                        "href": "https://github.com/ArjanCodes/examples/pull/54"
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/3"
                     },
                     "issue": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3"
                     },
                     "comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3/comments"
                     },
                     "review_comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/comments"
                     },
                     "review_comment": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
                     },
                     "commits": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/commits"
                     },
                     "statuses": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/c4e0ef044e7674c112e18a48b353d0e5922e563c"
                     }
                 },
-                "author_association": "COLLABORATOR",
+                "author_association": "OWNER",
                 "auto_merge": null,
                 "active_lock_reason": null,
                 "merged": true,
@@ -692,244 +219,201 @@
                 "rebaseable": null,
                 "mergeable_state": "unknown",
                 "merged_by": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
                     "type": "User",
+                    "user_view_type": "public",
                     "site_admin": false
                 },
                 "comments": 0,
                 "review_comments": 0,
                 "maintainer_can_modify": false,
-                "commits": 4,
-                "additions": 2312,
-                "deletions": 0,
-                "changed_files": 65
+                "commits": 1,
+                "additions": 1068,
+                "deletions": 15,
+                "changed_files": 10
             }
         },
         "public": true,
-        "created_at": "2024-10-16T09:23:08Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-18T08:10:30Z"
     },
     {
-        "id": "42896969236",
+        "id": "42973786766",
         "type": "PullRequestEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
             "action": "opened",
-            "number": 54,
+            "number": 3,
             "pull_request": {
-                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54",
-                "id": 2127316304,
-                "node_id": "PR_kwDOFHLQ685-zEVQ",
-                "html_url": "https://github.com/ArjanCodes/examples/pull/54",
-                "diff_url": "https://github.com/ArjanCodes/examples/pull/54.diff",
-                "patch_url": "https://github.com/ArjanCodes/examples/pull/54.patch",
-                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54",
-                "number": 54,
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3",
+                "id": 2131852866,
+                "node_id": "PR_kwDOM38Ryc5_EX5C",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/3.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3",
+                "number": 3,
                 "state": "open",
                 "locked": false,
-                "title": "2024 duplication",
+                "title": "Add monitoring with Elasticsearch and Kibana",
                 "user": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
                     "type": "User",
+                    "user_view_type": "public",
                     "site_admin": false
                 },
                 "body": null,
-                "created_at": "2024-10-16T09:23:00Z",
-                "updated_at": "2024-10-16T09:23:00Z",
+                "created_at": "2024-10-18T08:09:38Z",
+                "updated_at": "2024-10-18T08:09:38Z",
                 "closed_at": null,
                 "merged_at": null,
                 "merge_commit_sha": null,
-                "assignee": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
-                    "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
-                    "type": "User",
-                    "site_admin": false
-                },
-                "assignees": [
-                    {
-                        "login": "ABDreos",
-                        "id": 150030839,
-                        "node_id": "U_kgDOCPFJ9w",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
-                        "gravatar_id": "",
-                        "url": "https://api.github.com/users/ABDreos",
-                        "html_url": "https://github.com/ABDreos",
-                        "followers_url": "https://api.github.com/users/ABDreos/followers",
-                        "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                        "repos_url": "https://api.github.com/users/ABDreos/repos",
-                        "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ABDreos/received_events",
-                        "type": "User",
-                        "site_admin": false
-                    }
-                ],
+                "assignee": null,
+                "assignees": [],
                 "requested_reviewers": [],
                 "requested_teams": [],
                 "labels": [],
                 "milestone": null,
                 "draft": false,
-                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits",
-                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments",
-                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
-                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments",
-                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/c4e0ef044e7674c112e18a48b353d0e5922e563c",
                 "head": {
-                    "label": "ArjanCodes:2024-duplication",
-                    "ref": "2024-duplication",
-                    "sha": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                    "label": "Paulescu:dev",
+                    "ref": "dev",
+                    "sha": "c4e0ef044e7674c112e18a48b353d0e5922e563c",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "base": {
-                    "label": "ArjanCodes:main",
+                    "label": "Paulescu:main",
                     "ref": "main",
-                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "sha": "cfc87e27cea69bce78d4c5e2717a30832534b452",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "_links": {
                     "self": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3"
                     },
                     "html": {
-                        "href": "https://github.com/ArjanCodes/examples/pull/54"
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/3"
                     },
                     "issue": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3"
                     },
                     "comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/3/comments"
                     },
                     "review_comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/comments"
                     },
                     "review_comment": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
                     },
                     "commits": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/3/commits"
                     },
                     "statuses": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/c4e0ef044e7674c112e18a48b353d0e5922e563c"
                     }
                 },
-                "author_association": "COLLABORATOR",
+                "author_association": "OWNER",
                 "auto_merge": null,
                 "active_lock_reason": null,
                 "merged": false,
@@ -940,495 +424,870 @@
                 "comments": 0,
                 "review_comments": 0,
                 "maintainer_can_modify": false,
-                "commits": 4,
-                "additions": 2312,
-                "deletions": 0,
-                "changed_files": 65
+                "commits": 1,
+                "additions": 1068,
+                "deletions": 15,
+                "changed_files": 10
             }
         },
         "public": true,
-        "created_at": "2024-10-16T09:23:02Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-18T08:09:39Z"
     },
     {
-        "id": "42862782090",
-        "type": "PushEvent",
+        "id": "42973779837",
+        "type": "CreateEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "repository_id": 343068907,
-            "push_id": 20720674811,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/2024-grpc-rest",
-            "head": "9d810940190a86275c61765fafcf5f8904298681",
-            "before": "70d4561d1185e25803236547c1eac33504ee0c67",
-            "commits": [
-                {
-                    "sha": "9d810940190a86275c61765fafcf5f8904298681",
-                    "author": {
-                        "email": "andreas@arjancodes.com",
-                        "name": "Andreas Bergman"
-                    },
-                    "message": "Update",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/9d810940190a86275c61765fafcf5f8904298681"
-                }
-            ]
+            "ref": "dev",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Build and deploy a REST API for taxi trip data \ud83d\ude95",
+            "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2024-10-15T13:09:32Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-18T08:09:26Z"
     },
     {
-        "id": "42860824662",
-        "type": "PushEvent",
-        "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "repository_id": 343068907,
-            "push_id": 20719704135,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/2024-grpc-rest",
-            "head": "70d4561d1185e25803236547c1eac33504ee0c67",
-            "before": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
-            "commits": [
-                {
-                    "sha": "70d4561d1185e25803236547c1eac33504ee0c67",
-                    "author": {
-                        "email": "andreas@arjancodes.com",
-                        "name": "Andreas Bergman"
-                    },
-                    "message": "Follow more conventional structure and update makefile to match that",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/70d4561d1185e25803236547c1eac33504ee0c67"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-15T12:20:18Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42859977848",
-        "type": "PushEvent",
-        "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "repository_id": 343068907,
-            "push_id": 20719288302,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/2024-grpc-rest",
-            "head": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
-            "before": "8c5596c374835848972387b8120123e34feb1dae",
-            "commits": [
-                {
-                    "sha": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
-                    "author": {
-                        "email": "andreas@arjancodes.com",
-                        "name": "Andreas Bergman"
-                    },
-                    "message": "Init example",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/42b0ec28c1894ff45f2a25b804ac0e9a12abdf37"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-15T11:56:44Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42855020702",
+        "id": "42902356796",
         "type": "WatchEvent",
         "actor": {
-            "id": 22388092,
-            "login": "linhduongtuan",
-            "display_login": "linhduongtuan",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/linhduongtuan",
-            "avatar_url": "https://avatars.githubusercontent.com/u/22388092?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 601675381,
-            "name": "ArjanCodes/2023-attrs",
-            "url": "https://api.github.com/repos/ArjanCodes/2023-attrs"
+            "id": 1377867,
+            "name": "locustio/locust",
+            "url": "https://api.github.com/repos/locustio/locust"
         },
         "payload": {
             "action": "started"
         },
         "public": true,
-        "created_at": "2024-10-15T09:34:26Z",
+        "created_at": "2024-10-16T11:57:51Z",
         "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
+            "id": 2641063,
+            "login": "locustio",
             "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+            "url": "https://api.github.com/orgs/locustio",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2641063?"
         }
     },
     {
-        "id": "42844755517",
+        "id": "42895591150",
         "type": "WatchEvent",
         "actor": {
-            "id": 59735011,
-            "login": "YuKangjie",
-            "display_login": "YuKangjie",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/YuKangjie",
-            "avatar_url": "https://avatars.githubusercontent.com/u/59735011?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 699532645,
+            "name": "astral-sh/uv",
+            "url": "https://api.github.com/repos/astral-sh/uv"
         },
         "payload": {
             "action": "started"
         },
         "public": true,
-        "created_at": "2024-10-15T02:52:55Z",
+        "created_at": "2024-10-16T08:46:37Z",
         "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
+            "id": 115962839,
+            "login": "astral-sh",
             "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+            "url": "https://api.github.com/orgs/astral-sh",
+            "avatar_url": "https://avatars.githubusercontent.com/u/115962839?"
         }
     },
     {
-        "id": "42836142348",
-        "type": "ForkEvent",
-        "actor": {
-            "id": 110493409,
-            "login": "Volodymyr-Hamalii",
-            "display_login": "Volodymyr-Hamalii",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Volodymyr-Hamalii",
-            "avatar_url": "https://avatars.githubusercontent.com/u/110493409?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "forkee": {
-                "id": 872625402,
-                "node_id": "R_kgDONAM0-g",
-                "name": "betterpython",
-                "full_name": "Volodymyr-Hamalii/betterpython",
-                "private": false,
-                "public": true
-            }
-        },
-        "public": true,
-        "created_at": "2024-10-14T19:10:25Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42826097153",
+        "id": "42854665640",
         "type": "PushEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "repository_id": 343068907,
-            "push_id": 20702376666,
+            "repository_id": 863965641,
+            "push_id": 20716728324,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "cfc87e27cea69bce78d4c5e2717a30832534b452",
+            "before": "f64ed4f0157302cff17a578e81ac78d03a552d27",
+            "commits": [
+                {
+                    "sha": "cfc87e27cea69bce78d4c5e2717a30832534b452",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Edit README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/cfc87e27cea69bce78d4c5e2717a30832534b452"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:24:58Z"
+    },
+    {
+        "id": "42854601841",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20716697565,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "f64ed4f0157302cff17a578e81ac78d03a552d27",
+            "before": "a6a565bc0baa5ab916a1b2e378f3040c324533a3",
+            "commits": [
+                {
+                    "sha": "f64ed4f0157302cff17a578e81ac78d03a552d27",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Edit in README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/f64ed4f0157302cff17a578e81ac78d03a552d27"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:23:15Z"
+    },
+    {
+        "id": "42854498191",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20716647718,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "a6a565bc0baa5ab916a1b2e378f3040c324533a3",
+            "before": "eda246ca37b8c354510764c452320d2ecc01eb16",
+            "commits": [
+                {
+                    "sha": "a6a565bc0baa5ab916a1b2e378f3040c324533a3",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Edit in README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/a6a565bc0baa5ab916a1b2e378f3040c324533a3"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:20:29Z"
+    },
+    {
+        "id": "42854441901",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20716620188,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "eda246ca37b8c354510764c452320d2ecc01eb16",
+            "before": "66d4dd128158e6f68ca4f87af633cee9e7e8bf81",
+            "commits": [
+                {
+                    "sha": "eda246ca37b8c354510764c452320d2ecc01eb16",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Small edit in README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/eda246ca37b8c354510764c452320d2ecc01eb16"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:19:00Z"
+    },
+    {
+        "id": "42854407559",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20716603890,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "66d4dd128158e6f68ca4f87af633cee9e7e8bf81",
+            "before": "b9796b756f10b6fc53f38d24f8c1c73152fa8124",
+            "commits": [
+                {
+                    "sha": "66d4dd128158e6f68ca4f87af633cee9e7e8bf81",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Add media to README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/66d4dd128158e6f68ca4f87af633cee9e7e8bf81"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:18:07Z"
+    },
+    {
+        "id": "42854077310",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 312559801,
+            "name": "gimlet-io/gimlet",
+            "url": "https://api.github.com/repos/gimlet-io/gimlet"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:09:31Z",
+        "org": {
+            "id": 66959026,
+            "login": "gimlet-io",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/gimlet-io",
+            "avatar_url": "https://avatars.githubusercontent.com/u/66959026?"
+        }
+    },
+    {
+        "id": "42769910899",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20670227912,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "b9796b756f10b6fc53f38d24f8c1c73152fa8124",
+            "before": "ea320229f7dfd0a67572a3cefb9da66897f3c2ab",
+            "commits": [
+                {
+                    "sha": "b9796b756f10b6fc53f38d24f8c1c73152fa8124",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Adjust README.md",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/b9796b756f10b6fc53f38d24f8c1c73152fa8124"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-11T15:55:08Z"
+    },
+    {
+        "id": "42769671895",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20670111709,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ea320229f7dfd0a67572a3cefb9da66897f3c2ab",
+            "before": "ed2b8c2d7de39c7de082ea33e42229fa116992cf",
+            "commits": [
+                {
+                    "sha": "ea320229f7dfd0a67572a3cefb9da66897f3c2ab",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update README.md with new instructions",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/ea320229f7dfd0a67572a3cefb9da66897f3c2ab"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-11T15:46:59Z"
+    },
+    {
+        "id": "42766979714",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 871229956,
+            "name": "Paulescu/taxi-data-api-python-fork",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python-fork"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-11T14:23:24Z"
+    },
+    {
+        "id": "42766973032",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 871229956,
+            "name": "Paulescu/taxi-data-api-python-fork",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python-fork"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-11T14:23:12Z"
+    },
+    {
+        "id": "42759063335",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20664853554,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ed2b8c2d7de39c7de082ea33e42229fa116992cf",
+            "before": "28be050b261abb7d1432f321a3a91d626fa02e60",
+            "commits": [
+                {
+                    "sha": "ed2b8c2d7de39c7de082ea33e42229fa116992cf",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update Makefile and README.md",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/ed2b8c2d7de39c7de082ea33e42229fa116992cf"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-11T10:03:02Z"
+    },
+    {
+        "id": "42756626014",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20663671045,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "28be050b261abb7d1432f321a3a91d626fa02e60",
+            "before": "2943884857fc5aff294d5152d79c94cb6049c529",
+            "commits": [
+                {
+                    "sha": "28be050b261abb7d1432f321a3a91d626fa02e60",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update Docker pull address in .gimlet config",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/28be050b261abb7d1432f321a3a91d626fa02e60"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-11T08:45:25Z"
+    },
+    {
+        "id": "42718323757",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20644547413,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2943884857fc5aff294d5152d79c94cb6049c529",
+            "before": "976faf79688354436087ab87b2d894519e336557",
+            "commits": [
+                {
+                    "sha": "2943884857fc5aff294d5152d79c94cb6049c529",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update the health check endpoint response, again",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/2943884857fc5aff294d5152d79c94cb6049c529"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-10T08:41:37Z"
+    },
+    {
+        "id": "42718009924",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20644396364,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "976faf79688354436087ab87b2d894519e336557",
+            "before": "7fc099e30503c223ebcd3798f89acf3c8eaa55ed",
+            "commits": [
+                {
+                    "sha": "976faf79688354436087ab87b2d894519e336557",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update health endpoint response, again",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/976faf79688354436087ab87b2d894519e336557"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-10T08:32:50Z"
+    },
+    {
+        "id": "42717704256",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20644246522,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ea9c67cb015a1cb66c0c0275255664e2ea155f22",
+            "before": "bb26e4d5f6fc8332087938bba6a74b1ac6b2bc23",
+            "commits": [
+                {
+                    "sha": "ea9c67cb015a1cb66c0c0275255664e2ea155f22",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update health endpoint response",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/ea9c67cb015a1cb66c0c0275255664e2ea155f22"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-10T08:24:21Z"
+    },
+    {
+        "id": "42717670595",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20644230244,
             "size": 2,
             "distinct_size": 2,
             "ref": "refs/heads/main",
-            "head": "1f03e479929eaac436ae43d9c4263c3e87435313",
-            "before": "386709bef0539d217a856bbd3f5a928922da0960",
+            "head": "bb26e4d5f6fc8332087938bba6a74b1ac6b2bc23",
+            "before": "7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574",
             "commits": [
                 {
-                    "sha": "e69a5593d9b9abac878817039f79fe84f3d14420",
+                    "sha": "1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
                     "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
+                        "email": "laszlo@gimlet.io",
+                        "name": "Laszlo Fogas"
                     },
-                    "message": "Added code examples.",
+                    "message": "Docker pull address",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/e69a5593d9b9abac878817039f79fe84f3d14420"
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9"
                 },
                 {
-                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "sha": "bb26e4d5f6fc8332087938bba6a74b1ac6b2bc23",
                     "author": {
-                        "email": "arjan@quarterfall.com",
-                        "name": "Arjan Egges"
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Pau Labarta Bajo"
                     },
-                    "message": "Added scrape check",
+                    "message": "Merge pull request #2 from laszlocph/patch-1\n\nDocker pull address",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/1f03e479929eaac436ae43d9c4263c3e87435313"
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/bb26e4d5f6fc8332087938bba6a74b1ac6b2bc23"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-10-14T13:45:26Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-10T08:23:23Z"
     },
     {
-        "id": "42826096716",
+        "id": "42717670263",
         "type": "PullRequestEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
             "action": "closed",
-            "number": 53,
+            "number": 2,
             "pull_request": {
-                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53",
-                "id": 2123114057,
-                "node_id": "PR_kwDOFHLQ685-jCZJ",
-                "html_url": "https://github.com/ArjanCodes/examples/pull/53",
-                "diff_url": "https://github.com/ArjanCodes/examples/pull/53.diff",
-                "patch_url": "https://github.com/ArjanCodes/examples/pull/53.patch",
-                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53",
-                "number": 53,
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2",
+                "id": 2116792857,
+                "node_id": "PR_kwDOM38Ryc5-K7IZ",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2",
+                "number": 2,
                 "state": "closed",
                 "locked": false,
-                "title": "2024 python15",
+                "title": "Docker pull address",
                 "user": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "laszlocph",
+                    "id": 4289031,
+                    "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/laszlocph",
+                    "html_url": "https://github.com/laszlocph",
+                    "followers_url": "https://api.github.com/users/laszlocph/followers",
+                    "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                    "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                    "repos_url": "https://api.github.com/users/laszlocph/repos",
+                    "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/laszlocph/received_events",
                     "type": "User",
                     "site_admin": false
                 },
                 "body": null,
-                "created_at": "2024-10-14T13:45:10Z",
-                "updated_at": "2024-10-14T13:45:24Z",
-                "closed_at": "2024-10-14T13:45:24Z",
-                "merged_at": "2024-10-14T13:45:24Z",
-                "merge_commit_sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                "created_at": "2024-10-10T06:43:02Z",
+                "updated_at": "2024-10-10T08:23:22Z",
+                "closed_at": "2024-10-10T08:23:22Z",
+                "merged_at": "2024-10-10T08:23:22Z",
+                "merge_commit_sha": "bb26e4d5f6fc8332087938bba6a74b1ac6b2bc23",
                 "assignee": null,
                 "assignees": [],
-                "requested_reviewers": [
-                    {
-                        "login": "egges",
-                        "id": 2195171,
-                        "node_id": "MDQ6VXNlcjIxOTUxNzE=",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/2195171?v=4",
-                        "gravatar_id": "",
-                        "url": "https://api.github.com/users/egges",
-                        "html_url": "https://github.com/egges",
-                        "followers_url": "https://api.github.com/users/egges/followers",
-                        "following_url": "https://api.github.com/users/egges/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/egges/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/egges/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/egges/subscriptions",
-                        "organizations_url": "https://api.github.com/users/egges/orgs",
-                        "repos_url": "https://api.github.com/users/egges/repos",
-                        "events_url": "https://api.github.com/users/egges/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/egges/received_events",
-                        "type": "User",
-                        "site_admin": false
-                    }
-                ],
+                "requested_reviewers": [],
                 "requested_teams": [],
                 "labels": [],
                 "milestone": null,
                 "draft": false,
-                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits",
-                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments",
-                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
-                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments",
-                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
                 "head": {
-                    "label": "ArjanCodes:2024-python15",
-                    "ref": "2024-python15",
-                    "sha": "ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                    "label": "laszlocph:patch-1",
+                    "ref": "patch-1",
+                    "sha": "1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "laszlocph",
+                        "id": 4289031,
+                        "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/laszlocph",
+                        "html_url": "https://github.com/laszlocph",
+                        "followers_url": "https://api.github.com/users/laszlocph/followers",
+                        "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                        "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                        "repos_url": "https://api.github.com/users/laszlocph/repos",
+                        "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                        "type": "User",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 869520843,
+                        "node_id": "R_kgDOM9PVyw",
+                        "name": "taxi-data-api-python",
+                        "full_name": "laszlocph/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "base": {
-                    "label": "ArjanCodes:main",
+                    "label": "Paulescu:main",
                     "ref": "main",
-                    "sha": "386709bef0539d217a856bbd3f5a928922da0960",
+                    "sha": "7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "_links": {
                     "self": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2"
                     },
                     "html": {
-                        "href": "https://github.com/ArjanCodes/examples/pull/53"
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/2"
                     },
                     "issue": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2"
                     },
                     "comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2/comments"
                     },
                     "review_comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/comments"
                     },
                     "review_comment": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
                     },
                     "commits": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/commits"
                     },
                     "statuses": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9"
                     }
                 },
-                "author_association": "COLLABORATOR",
+                "author_association": "CONTRIBUTOR",
                 "auto_merge": null,
                 "active_lock_reason": null,
                 "merged": true,
@@ -1436,451 +1295,813 @@
                 "rebaseable": null,
                 "mergeable_state": "unknown",
                 "merged_by": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
                     "type": "User",
                     "site_admin": false
                 },
                 "comments": 0,
                 "review_comments": 0,
                 "maintainer_can_modify": false,
-                "commits": 2,
-                "additions": 3182,
-                "deletions": 0,
-                "changed_files": 16
+                "commits": 1,
+                "additions": 1,
+                "deletions": 1,
+                "changed_files": 1
             }
         },
         "public": true,
-        "created_at": "2024-10-14T13:45:25Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-10T08:23:23Z"
     },
     {
-        "id": "42826087597",
-        "type": "PullRequestEvent",
+        "id": "42717667246",
+        "type": "PullRequestReviewEvent",
         "actor": {
-            "id": 150030839,
-            "login": "ABDreos",
-            "display_login": "ABDreos",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/ABDreos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "action": "opened",
-            "number": 53,
-            "pull_request": {
-                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53",
-                "id": 2123114057,
-                "node_id": "PR_kwDOFHLQ685-jCZJ",
-                "html_url": "https://github.com/ArjanCodes/examples/pull/53",
-                "diff_url": "https://github.com/ArjanCodes/examples/pull/53.diff",
-                "patch_url": "https://github.com/ArjanCodes/examples/pull/53.patch",
-                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53",
-                "number": 53,
-                "state": "open",
-                "locked": false,
-                "title": "2024 python15",
+            "action": "created",
+            "review": {
+                "id": 2359481916,
+                "node_id": "PRR_kwDOM38Ryc6MotY8",
                 "user": {
-                    "login": "ABDreos",
-                    "id": 150030839,
-                    "node_id": "U_kgDOCPFJ9w",
-                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                     "gravatar_id": "",
-                    "url": "https://api.github.com/users/ABDreos",
-                    "html_url": "https://github.com/ABDreos",
-                    "followers_url": "https://api.github.com/users/ABDreos/followers",
-                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
-                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
-                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
-                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
-                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
-                    "repos_url": "https://api.github.com/users/ABDreos/repos",
-                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
-                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
                     "type": "User",
                     "site_admin": false
                 },
                 "body": null,
-                "created_at": "2024-10-14T13:45:10Z",
-                "updated_at": "2024-10-14T13:45:10Z",
+                "commit_id": "1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
+                "submitted_at": "2024-10-10T08:23:17Z",
+                "state": "approved",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2#pullrequestreview-2359481916",
+                "pull_request_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2",
+                "author_association": "OWNER",
+                "_links": {
+                    "html": {
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/2#pullrequestreview-2359481916"
+                    },
+                    "pull_request": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2"
+                    }
+                }
+            },
+            "pull_request": {
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2",
+                "id": 2116792857,
+                "node_id": "PR_kwDOM38Ryc5-K7IZ",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/2.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2",
+                "number": 2,
+                "state": "open",
+                "locked": false,
+                "title": "Docker pull address",
+                "user": {
+                    "login": "laszlocph",
+                    "id": 4289031,
+                    "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/laszlocph",
+                    "html_url": "https://github.com/laszlocph",
+                    "followers_url": "https://api.github.com/users/laszlocph/followers",
+                    "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                    "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                    "repos_url": "https://api.github.com/users/laszlocph/repos",
+                    "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-10T06:43:02Z",
+                "updated_at": "2024-10-10T08:23:17Z",
                 "closed_at": null,
                 "merged_at": null,
-                "merge_commit_sha": null,
+                "merge_commit_sha": "845027c1f277ecebc243420bc7b87d10ed304ba2",
                 "assignee": null,
                 "assignees": [],
-                "requested_reviewers": [
-                    {
-                        "login": "egges",
-                        "id": 2195171,
-                        "node_id": "MDQ6VXNlcjIxOTUxNzE=",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/2195171?v=4",
-                        "gravatar_id": "",
-                        "url": "https://api.github.com/users/egges",
-                        "html_url": "https://github.com/egges",
-                        "followers_url": "https://api.github.com/users/egges/followers",
-                        "following_url": "https://api.github.com/users/egges/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/egges/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/egges/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/egges/subscriptions",
-                        "organizations_url": "https://api.github.com/users/egges/orgs",
-                        "repos_url": "https://api.github.com/users/egges/repos",
-                        "events_url": "https://api.github.com/users/egges/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/egges/received_events",
-                        "type": "User",
-                        "site_admin": false
-                    }
-                ],
+                "requested_reviewers": [],
                 "requested_teams": [],
                 "labels": [],
                 "milestone": null,
                 "draft": false,
-                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits",
-                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments",
-                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
-                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments",
-                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
                 "head": {
-                    "label": "ArjanCodes:2024-python15",
-                    "ref": "2024-python15",
-                    "sha": "ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                    "label": "laszlocph:patch-1",
+                    "ref": "patch-1",
+                    "sha": "1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "laszlocph",
+                        "id": 4289031,
+                        "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/laszlocph",
+                        "html_url": "https://github.com/laszlocph",
+                        "followers_url": "https://api.github.com/users/laszlocph/followers",
+                        "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                        "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                        "repos_url": "https://api.github.com/users/laszlocph/repos",
+                        "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                        "type": "User",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 869520843,
+                        "node_id": "R_kgDOM9PVyw",
+                        "name": "taxi-data-api-python",
+                        "full_name": "laszlocph/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "base": {
-                    "label": "ArjanCodes:main",
+                    "label": "Paulescu:main",
                     "ref": "main",
-                    "sha": "386709bef0539d217a856bbd3f5a928922da0960",
+                    "sha": "7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574",
                     "user": {
-                        "login": "ArjanCodes",
-                        "id": 79447507,
-                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
-                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
                         "gravatar_id": "",
-                        "url": "https://api.github.com/users/ArjanCodes",
-                        "html_url": "https://github.com/ArjanCodes",
-                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
-                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
-                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
-                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
-                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
-                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
-                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
-                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
-                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
-                        "type": "Organization",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
                         "site_admin": false
                     },
                     "repo": {
-                        "id": 343068907,
-                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
-                        "name": "examples",
-                        "full_name": "ArjanCodes/examples",
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
                         "private": false
                     }
                 },
                 "_links": {
                     "self": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2"
                     },
                     "html": {
-                        "href": "https://github.com/ArjanCodes/examples/pull/53"
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/2"
                     },
                     "issue": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2"
                     },
                     "comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/2/comments"
                     },
                     "review_comments": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/comments"
                     },
                     "review_comment": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
                     },
                     "commits": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/2/commits"
                     },
                     "statuses": {
-                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a"
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/1fbcd722b749ca8899ccfe1ab66a1e1c9e5c39f9"
                     }
                 },
-                "author_association": "COLLABORATOR",
+                "author_association": "CONTRIBUTOR",
+                "auto_merge": null,
+                "active_lock_reason": null
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-10T08:23:18Z"
+    },
+    {
+        "id": "42701666955",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20636036130,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574",
+            "before": "918058e549e54a7107a5505b8096d67162e3723a",
+            "commits": [
+                {
+                    "sha": "7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Update health check endpoint response",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/7bbdcd82d4f2265c2d2a52f9c3042a36fcc96574"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-09T19:41:41Z"
+    },
+    {
+        "id": "42701558826",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20635983674,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "918058e549e54a7107a5505b8096d67162e3723a",
+            "before": "d433d60eb868b5fa788684a18a529d04535d59b9",
+            "commits": [
+                {
+                    "sha": "918058e549e54a7107a5505b8096d67162e3723a",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Lint test_read_parquet.py",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/918058e549e54a7107a5505b8096d67162e3723a"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-09T19:37:48Z"
+    },
+    {
+        "id": "42701393153",
+        "type": "PushEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "repository_id": 863965641,
+            "push_id": 20635899443,
+            "size": 2,
+            "distinct_size": 2,
+            "ref": "refs/heads/main",
+            "head": "d433d60eb868b5fa788684a18a529d04535d59b9",
+            "before": "ec5fd8e4b82fb4b056cdcfdded83a7555db2fb7e",
+            "commits": [
+                {
+                    "sha": "0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                    "author": {
+                        "email": "laszlo@gimlet.io",
+                        "name": "Laszlo Fogas"
+                    },
+                    "message": "Version updates; removed default values",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/0fb46dbd3b86b8e36620c3499ebd11ee8c21a929"
+                },
+                {
+                    "sha": "d433d60eb868b5fa788684a18a529d04535d59b9",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Pau Labarta Bajo"
+                    },
+                    "message": "Merge pull request #1 from laszlocph/lipstick\n\nVersion updates; removed default values",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/d433d60eb868b5fa788684a18a529d04535d59b9"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-09T19:31:47Z"
+    },
+    {
+        "id": "42701392943",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
+        },
+        "repo": {
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 1,
+            "pull_request": {
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1",
+                "id": 2113022280,
+                "node_id": "PR_kwDOM38Ryc598ilI",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1",
+                "number": 1,
+                "state": "closed",
+                "locked": false,
+                "title": "Version updates; removed default values",
+                "user": {
+                    "login": "laszlocph",
+                    "id": 4289031,
+                    "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/laszlocph",
+                    "html_url": "https://github.com/laszlocph",
+                    "followers_url": "https://api.github.com/users/laszlocph/followers",
+                    "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                    "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                    "repos_url": "https://api.github.com/users/laszlocph/repos",
+                    "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-08T12:45:41Z",
+                "updated_at": "2024-10-09T19:31:45Z",
+                "closed_at": "2024-10-09T19:31:45Z",
+                "merged_at": "2024-10-09T19:31:45Z",
+                "merge_commit_sha": "d433d60eb868b5fa788684a18a529d04535d59b9",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                "head": {
+                    "label": "laszlocph:lipstick",
+                    "ref": "lipstick",
+                    "sha": "0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                    "user": {
+                        "login": "laszlocph",
+                        "id": 4289031,
+                        "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/laszlocph",
+                        "html_url": "https://github.com/laszlocph",
+                        "followers_url": "https://api.github.com/users/laszlocph/followers",
+                        "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                        "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                        "repos_url": "https://api.github.com/users/laszlocph/repos",
+                        "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 869520843,
+                        "node_id": "R_kgDOM9PVyw",
+                        "name": "taxi-data-api-python",
+                        "full_name": "laszlocph/taxi-data-api-python",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "Paulescu:main",
+                    "ref": "main",
+                    "sha": "01d018b00da336b3efefc159af44313a2838e405",
+                    "user": {
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1"
+                    },
+                    "html": {
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/1"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/0fb46dbd3b86b8e36620c3499ebd11ee8c21a929"
+                    }
+                },
+                "author_association": "NONE",
                 "auto_merge": null,
                 "active_lock_reason": null,
-                "merged": false,
+                "merged": true,
                 "mergeable": null,
                 "rebaseable": null,
                 "mergeable_state": "unknown",
-                "merged_by": null,
+                "merged_by": {
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
                 "comments": 0,
                 "review_comments": 0,
                 "maintainer_can_modify": false,
-                "commits": 2,
-                "additions": 3182,
-                "deletions": 0,
-                "changed_files": 16
+                "commits": 1,
+                "additions": 9,
+                "deletions": 20,
+                "changed_files": 1
             }
         },
         "public": true,
-        "created_at": "2024-10-14T13:45:11Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-09T19:31:46Z"
     },
     {
-        "id": "42825470565",
-        "type": "ForkEvent",
+        "id": "42701388169",
+        "type": "PullRequestReviewEvent",
         "actor": {
-            "id": 14107397,
-            "login": "mdeaves",
-            "display_login": "mdeaves",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/mdeaves",
-            "avatar_url": "https://avatars.githubusercontent.com/u/14107397?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "forkee": {
-                "id": 872460760,
-                "node_id": "R_kgDONACx2A",
-                "name": "arjun_codes_examples",
-                "full_name": "mdeaves/arjun_codes_examples",
-                "private": false,
-                "public": true
+            "action": "created",
+            "review": {
+                "id": 2358146681,
+                "node_id": "PRR_kwDOM38Ryc6MjnZ5",
+                "user": {
+                    "login": "Paulescu",
+                    "id": 14981636,
+                    "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/Paulescu",
+                    "html_url": "https://github.com/Paulescu",
+                    "followers_url": "https://api.github.com/users/Paulescu/followers",
+                    "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                    "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                    "repos_url": "https://api.github.com/users/Paulescu/repos",
+                    "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "commit_id": "0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                "submitted_at": "2024-10-09T19:31:35Z",
+                "state": "approved",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1#pullrequestreview-2358146681",
+                "pull_request_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1",
+                "author_association": "OWNER",
+                "_links": {
+                    "html": {
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/1#pullrequestreview-2358146681"
+                    },
+                    "pull_request": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1"
+                    }
+                }
+            },
+            "pull_request": {
+                "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1",
+                "id": 2113022280,
+                "node_id": "PR_kwDOM38Ryc598ilI",
+                "html_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1",
+                "diff_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1.diff",
+                "patch_url": "https://github.com/Paulescu/taxi-data-api-python/pull/1.patch",
+                "issue_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1",
+                "number": 1,
+                "state": "open",
+                "locked": false,
+                "title": "Version updates; removed default values",
+                "user": {
+                    "login": "laszlocph",
+                    "id": 4289031,
+                    "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/laszlocph",
+                    "html_url": "https://github.com/laszlocph",
+                    "followers_url": "https://api.github.com/users/laszlocph/followers",
+                    "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                    "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                    "repos_url": "https://api.github.com/users/laszlocph/repos",
+                    "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-08T12:45:41Z",
+                "updated_at": "2024-10-09T19:31:35Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": "5ba364d3f81af53688cb55bd36cfb406c9bd94d8",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/commits",
+                "review_comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/comments",
+                "review_comment_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1/comments",
+                "statuses_url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                "head": {
+                    "label": "laszlocph:lipstick",
+                    "ref": "lipstick",
+                    "sha": "0fb46dbd3b86b8e36620c3499ebd11ee8c21a929",
+                    "user": {
+                        "login": "laszlocph",
+                        "id": 4289031,
+                        "node_id": "MDQ6VXNlcjQyODkwMzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/4289031?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/laszlocph",
+                        "html_url": "https://github.com/laszlocph",
+                        "followers_url": "https://api.github.com/users/laszlocph/followers",
+                        "following_url": "https://api.github.com/users/laszlocph/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/laszlocph/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/laszlocph/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/laszlocph/subscriptions",
+                        "organizations_url": "https://api.github.com/users/laszlocph/orgs",
+                        "repos_url": "https://api.github.com/users/laszlocph/repos",
+                        "events_url": "https://api.github.com/users/laszlocph/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/laszlocph/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 869520843,
+                        "node_id": "R_kgDOM9PVyw",
+                        "name": "taxi-data-api-python",
+                        "full_name": "laszlocph/taxi-data-api-python",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "Paulescu:main",
+                    "ref": "main",
+                    "sha": "01d018b00da336b3efefc159af44313a2838e405",
+                    "user": {
+                        "login": "Paulescu",
+                        "id": 14981636,
+                        "node_id": "MDQ6VXNlcjE0OTgxNjM2",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/14981636?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/Paulescu",
+                        "html_url": "https://github.com/Paulescu",
+                        "followers_url": "https://api.github.com/users/Paulescu/followers",
+                        "following_url": "https://api.github.com/users/Paulescu/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/Paulescu/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/Paulescu/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/Paulescu/subscriptions",
+                        "organizations_url": "https://api.github.com/users/Paulescu/orgs",
+                        "repos_url": "https://api.github.com/users/Paulescu/repos",
+                        "events_url": "https://api.github.com/users/Paulescu/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/Paulescu/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 863965641,
+                        "node_id": "R_kgDOM38RyQ",
+                        "name": "taxi-data-api-python",
+                        "full_name": "Paulescu/taxi-data-api-python",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1"
+                    },
+                    "html": {
+                        "href": "https://github.com/Paulescu/taxi-data-api-python/pull/1"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/issues/1/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/pulls/1/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/Paulescu/taxi-data-api-python/statuses/0fb46dbd3b86b8e36620c3499ebd11ee8c21a929"
+                    }
+                },
+                "author_association": "NONE",
+                "auto_merge": null,
+                "active_lock_reason": null
             }
         },
         "public": true,
-        "created_at": "2024-10-14T13:29:09Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-09T19:31:35Z"
     },
     {
-        "id": "42823807369",
-        "type": "ForkEvent",
+        "id": "42646131261",
+        "type": "PushEvent",
         "actor": {
-            "id": 36025380,
-            "login": "shanmugs",
-            "display_login": "shanmugs",
+            "id": 14981636,
+            "login": "Paulescu",
+            "display_login": "Paulescu",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/shanmugs",
-            "avatar_url": "https://avatars.githubusercontent.com/u/36025380?"
+            "url": "https://api.github.com/users/Paulescu",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14981636?"
         },
         "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
+            "id": 863965641,
+            "name": "Paulescu/taxi-data-api-python",
+            "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python"
         },
         "payload": {
-            "forkee": {
-                "id": 872438648,
-                "node_id": "R_kgDONABbeA",
-                "name": "py_examples",
-                "full_name": "shanmugs/py_examples",
-                "private": false,
-                "public": true
-            }
+            "repository_id": 863965641,
+            "push_id": 20608789722,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "01d018b00da336b3efefc159af44313a2838e405",
+            "before": "b616dbcd310820cb4c07d8aca32e8b0b134080d7",
+            "commits": [
+                {
+                    "sha": "01d018b00da336b3efefc159af44313a2838e405",
+                    "author": {
+                        "email": "plabartabajo@gmail.com",
+                        "name": "Paulescu"
+                    },
+                    "message": "Remove unused workflows",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/Paulescu/taxi-data-api-python/commits/01d018b00da336b3efefc159af44313a2838e405"
+                }
+            ]
         },
         "public": true,
-        "created_at": "2024-10-14T12:45:43Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42823789623",
-        "type": "ForkEvent",
-        "actor": {
-            "id": 2417292,
-            "login": "iamsathish",
-            "display_login": "iamsathish",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/iamsathish",
-            "avatar_url": "https://avatars.githubusercontent.com/u/2417292?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "forkee": {
-                "id": 872438410,
-                "node_id": "R_kgDONABaig",
-                "name": "examples",
-                "full_name": "iamsathish/examples",
-                "private": false,
-                "public": true
-            }
-        },
-        "public": true,
-        "created_at": "2024-10-14T12:45:14Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42808959089",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 38138908,
-            "login": "VwakeM",
-            "display_login": "VwakeM",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/VwakeM",
-            "avatar_url": "https://avatars.githubusercontent.com/u/38138908?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-14T04:36:31Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42803028680",
-        "type": "WatchEvent",
-        "actor": {
-            "id": 4193389,
-            "login": "Amourspirit",
-            "display_login": "Amourspirit",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Amourspirit",
-            "avatar_url": "https://avatars.githubusercontent.com/u/4193389?"
-        },
-        "repo": {
-            "id": 343068907,
-            "name": "ArjanCodes/examples",
-            "url": "https://api.github.com/repos/ArjanCodes/examples"
-        },
-        "payload": {
-            "action": "started"
-        },
-        "public": true,
-        "created_at": "2024-10-13T19:50:58Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
-    },
-    {
-        "id": "42801442389",
-        "type": "ForkEvent",
-        "actor": {
-            "id": 141393493,
-            "login": "thadigitalguru",
-            "display_login": "thadigitalguru",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/thadigitalguru",
-            "avatar_url": "https://avatars.githubusercontent.com/u/141393493?"
-        },
-        "repo": {
-            "id": 330415623,
-            "name": "ArjanCodes/betterpython",
-            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
-        },
-        "payload": {
-            "forkee": {
-                "id": 872057405,
-                "node_id": "R_kgDOM_qKPQ",
-                "name": "betterpython",
-                "full_name": "thadigitalguru/betterpython",
-                "private": false,
-                "public": true
-            }
-        },
-        "public": true,
-        "created_at": "2024-10-13T17:08:55Z",
-        "org": {
-            "id": 79447507,
-            "login": "ArjanCodes",
-            "gravatar_id": "",
-            "url": "https://api.github.com/orgs/ArjanCodes",
-            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
-        }
+        "created_at": "2024-10-08T12:27:36Z"
     }
 ]

@@ -1,6 +1,7 @@
 import pytest
 from datetime import datetime, timedelta
 
+
 @pytest.fixture(scope="function")
 def github_events_simple():
     return [
@@ -21,203 +22,158 @@ def github_events_simple():
 def github_events_complex():
     return [
         {
-            "id": "123456789",
+            "id": "101",
             "type": "ForkEvent",
             "actor": {
-                "id": 1001,
                 "login": "homer-simpson",
                 "display_login": "homer-simpson",
-                "url": "https://api.github.com/users/homer-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1001?"
+                "avatar_url": "https://simpsons-avatar.com/homer.png",
             },
             "repo": {
-                "id": 555,
-                "name": "MrBurns/Nuclear-Safety",
-                "url": "https://api.github.com/repos/MrBurns/Nuclear-Safety"
+                "name": "homer-simpson/donut-inventory",
+                "url": "https://github.com/homer-simpson/donut-inventory",
             },
-            "payload": {
-                "forkee": {
-                    "id": 12345,
-                    "name": "homer-simpson/Nuclear-Safety",
-                    "full_name": "homer-simpson/Nuclear-Safety"
-                }
-            },
+            "payload": {"forkee": {"full_name": "homer-simpson/donut-inventory-fork"}},
             "public": True,
-            "created_at": "2024-10-15T03:05:45.835922",
+            "created_at": "2024-10-20T08:30:00Z",
         },
         {
-            "id": "987654321",
-            "type": "PullRequestEvent",
+            "id": "102",
+            "type": "PushEvent",
             "actor": {
-                "id": 1002,
                 "login": "bart-simpson",
                 "display_login": "bart-simpson",
-                "url": "https://api.github.com/users/bart-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1002?"
+                "avatar_url": "https://simpsons-avatar.com/bart.png",
             },
             "repo": {
-                "id": 777,
-                "name": "KrustyBurger/NewMenu",
-                "url": "https://api.github.com/repos/KrustyBurger/NewMenu"
+                "name": "bart-simpson/skateboard-tricks",
+                "url": "https://github.com/bart-simpson/skateboard-tricks",
+            },
+            "payload": {
+                "size": 2,
+                "commits": [
+                    {
+                        "sha": "abc123",
+                        "message": "Added 'Cowabunga!' to the README",
+                        "url": "https://github.com/bart-simpson/skateboard-tricks/commit/abc123",
+                    }
+                ],
+            },
+            "public": True,
+            "created_at": "2024-10-20T09:00:00Z",
+        },
+        {
+            "id": "103",
+            "type": "PullRequestEvent",
+            "actor": {
+                "login": "homer-simpson",
+                "display_login": "homer-simpson",
+                "avatar_url": "https://simpsons-avatar.com/homer.png",
+            },
+            "repo": {
+                "name": "homer-simpson/donut-inventory",
+                "url": "https://github.com/homer-simpson/donut-inventory",
             },
             "payload": {
                 "action": "opened",
                 "pull_request": {
-                    "url": "https://api.github.com/repos/KrustyBurger/NewMenu/pulls/1",
-                    "number": 1,
+                    "url": "https://github.com/homer-simpson/donut-inventory/pull/1",
+                    "title": "Added 'Mmm... Donuts' feature",
                     "state": "open",
-                    "title": "Add new prank burger: The Flaming Moe",
-                    "created_at": "2024-10-10T03:05:45.835932"
-                }
+                    "merged": False,
+                },
             },
             "public": True,
-            "created_at": "2024-10-10T03:05:45.835932",
+            "created_at": "2024-10-20T10:00:00Z",
         },
         {
-            "id": "564738291",
+            "id": "104",
             "type": "PushEvent",
             "actor": {
-                "id": 1001,
-                "login": "homer-simpson",
-                "display_login": "homer-simpson",
-                "url": "https://api.github.com/users/homer-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1001?"
-            },
-            "repo": {
-                "id": 888,
-                "name": "DuffBeer/ProductionLine",
-                "url": "https://api.github.com/repos/DuffBeer/ProductionLine"
-            },
-            "payload": {
-                "ref": "refs/heads/main",
-                "commits": [
-                    {
-                        "sha": "abcd1234",
-                        "message": "Added quality checks for beer cans",
-                        "author": {
-                            "email": "homer@springfield.com",
-                            "name": "Homer Simpson"
-                        }
-                    }
-                ]
-            },
-            "public": True,
-            "created_at": "2024-10-05T03:05:45.835935",
-        },
-        {
-            "id": "234567890",
-            "type": "PullRequestEvent",
-            "actor": {
-                "id": 1002,
                 "login": "bart-simpson",
                 "display_login": "bart-simpson",
-                "url": "https://api.github.com/users/bart-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1002?"
+                "avatar_url": "https://simpsons-avatar.com/bart.png",
             },
             "repo": {
-                "id": 999,
-                "name": "SpringfieldElementary/PrankManual",
-                "url": "https://api.github.com/repos/SpringfieldElementary/PrankManual"
+                "name": "bart-simpson/prank-code",
+                "url": "https://github.com/bart-simpson/prank-code",
+            },
+            "payload": {
+                "size": 1,
+                "commits": [
+                    {
+                        "sha": "xyz789",
+                        "message": "Implemented prank: Replace 'Principal Skinner's coffee with cola'",
+                        "url": "https://github.com/bart-simpson/prank-code/commit/xyz789",
+                    }
+                ],
+            },
+            "public": True,
+            "created_at": "2024-10-20T11:00:00Z",
+        },
+        {
+            "id": "105",
+            "type": "PullRequestEvent",
+            "actor": {
+                "login": "bart-simpson",
+                "display_login": "bart-simpson",
+                "avatar_url": "https://simpsons-avatar.com/bart.png",
+            },
+            "repo": {
+                "name": "bart-simpson/slingshot",
+                "url": "https://github.com/bart-simpson/slingshot",
             },
             "payload": {
                 "action": "closed",
                 "pull_request": {
-                    "url": "https://api.github.com/repos/SpringfieldElementary/PrankManual/pulls/5",
-                    "number": 5,
+                    "url": "https://github.com/bart-simpson/slingshot/pull/42",
+                    "title": "Upgrade slingshot to fire tomatoes",
                     "state": "closed",
-                    "title": "Add prank for glueing principal's chair",
                     "merged": True,
-                    "created_at": "2024-09-30T03:05:45.835938"
-                }
+                },
             },
             "public": True,
-            "created_at": "2024-09-30T03:05:45.835938",
+            "created_at": "2024-10-20T12:00:00Z",
         },
         {
-            "id": "345678912",
-            "type": "PushEvent",
-            "actor": {
-                "id": 1002,
-                "login": "bart-simpson",
-                "display_login": "bart-simpson",
-                "url": "https://api.github.com/users/bart-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1002?"
-            },
-            "repo": {
-                "id": 444,
-                "name": "BartSimpson/SprayPaintArt",
-                "url": "https://api.github.com/repos/BartSimpson/SprayPaintArt"
-            },
-            "payload": {
-                "ref": "refs/heads/main",
-                "commits": [
-                    {
-                        "sha": "efgh5678",
-                        "message": "Added 'Eat My Shorts' graffiti design",
-                        "author": {
-                            "email": "bart@springfield.com",
-                            "name": "Bart Simpson"
-                        }
-                    }
-                ]
-            },
-            "public": True,
-            "created_at": "2024-09-25T03:05:45.835940",
-        },
-        {
-            "id": "456789012",
+            "id": "106",
             "type": "ForkEvent",
             "actor": {
-                "id": 1001,
-                "login": "homer-simpson",
-                "display_login": "homer-simpson",
-                "url": "https://api.github.com/users/homer-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1001?"
+                "login": "bart-simpson",
+                "display_login": "bart-simpson",
+                "avatar_url": "https://simpsons-avatar.com/bart.png",
             },
             "repo": {
-                "id": 555,
-                "name": "NedFlanders/Leftorium",
-                "url": "https://api.github.com/repos/NedFlanders/Leftorium"
+                "name": "bart-simpson/chalkboard-gags",
+                "url": "https://github.com/bart-simpson/chalkboard-gags",
             },
-            "payload": {
-                "forkee": {
-                    "id": 67890,
-                    "name": "homer-simpson/Leftorium",
-                    "full_name": "homer-simpson/Leftorium"
-                }
-            },
+            "payload": {"forkee": {"full_name": "bart-simpson/chalkboard-gags-fork"}},
             "public": True,
-            "created_at": "2024-09-20T03:05:45.835942",
+            "created_at": "2024-10-20T13:00:00Z",
         },
         {
-            "id": "567890123",
+            "id": "107",
             "type": "PushEvent",
             "actor": {
-                "id": 1001,
                 "login": "homer-simpson",
                 "display_login": "homer-simpson",
-                "url": "https://api.github.com/users/homer-simpson",
-                "avatar_url": "https://avatars.githubusercontent.com/u/1001?"
+                "avatar_url": "https://simpsons-avatar.com/homer.png",
             },
             "repo": {
-                "id": 666,
-                "name": "SimpsonHousehold/DIYProjects",
-                "url": "https://api.github.com/repos/SimpsonHousehold/DIYProjects"
+                "name": "homer-simpson/sofa-snacks",
+                "url": "https://github.com/homer-simpson/sofa-snacks",
             },
             "payload": {
-                "ref": "refs/heads/main",
+                "size": 1,
                 "commits": [
                     {
-                        "sha": "ijkl9012",
-                        "message": "Repaired the roof after Bart's skateboard stunt",
-                        "author": {
-                            "email": "homer@springfield.com",
-                            "name": "Homer Simpson"
-                        }
+                        "sha": "456def",
+                        "message": "Added 'TV remote holder next to the sofa' feature",
+                        "url": "https://github.com/homer-simpson/sofa-snacks/commit/456def",
                     }
-                ]
+                ],
             },
             "public": True,
-            "created_at": "2024-09-15T03:05:45.835944",
-        }
+            "created_at": "2024-10-20T14:00:00Z",
+        },
     ]
