@@ -1,0 +1,1886 @@
+[
+    {
+        "id": "43010765148",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 1517444,
+            "login": "ashwin47",
+            "display_login": "ashwin47",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ashwin47",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1517444?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-19T19:03:10Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "43007974941",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 63132189,
+            "login": "juand-gv",
+            "display_login": "juand-gv",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/juand-gv",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63132189?"
+        },
+        "repo": {
+            "id": 627401381,
+            "name": "ArjanCodes/2023-pandera",
+            "url": "https://api.github.com/repos/ArjanCodes/2023-pandera"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-19T14:52:11Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "43005373702",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 62971995,
+            "login": "adRn-s",
+            "display_login": "adRn-s",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adRn-s",
+            "avatar_url": "https://avatars.githubusercontent.com/u/62971995?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-19T10:43:03Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42994086606",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 81309352,
+            "login": "kanyijr",
+            "display_login": "kanyijr",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kanyijr",
+            "avatar_url": "https://avatars.githubusercontent.com/u/81309352?"
+        },
+        "repo": {
+            "id": 501989959,
+            "name": "ArjanCodes/2022-asyncio",
+            "url": "https://api.github.com/repos/ArjanCodes/2022-asyncio"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-18T18:57:02Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42961523061",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 87194753,
+            "login": "shane-beaumont",
+            "display_login": "shane-beaumont",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/shane-beaumont",
+            "avatar_url": "https://avatars.githubusercontent.com/u/87194753?"
+        },
+        "repo": {
+            "id": 596641378,
+            "name": "ArjanCodes/2023-fastapi",
+            "url": "https://api.github.com/repos/ArjanCodes/2023-fastapi"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-17T21:30:39Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42961519826",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 87194753,
+            "login": "shane-beaumont",
+            "display_login": "shane-beaumont",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/shane-beaumont",
+            "avatar_url": "https://avatars.githubusercontent.com/u/87194753?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-17T21:30:31Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42933531143",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 50773789,
+            "login": "BishalN",
+            "display_login": "BishalN",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/BishalN",
+            "avatar_url": "https://avatars.githubusercontent.com/u/50773789?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-17T07:34:38Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42933493347",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 50773789,
+            "login": "BishalN",
+            "display_login": "BishalN",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/BishalN",
+            "avatar_url": "https://avatars.githubusercontent.com/u/50773789?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-17T07:33:26Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42927195740",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 43675849,
+            "login": "RRavala",
+            "display_login": "RRavala",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/RRavala",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43675849?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "forkee": {
+                "id": 873957519,
+                "node_id": "R_kgDONBeIjw",
+                "name": "betterpython",
+                "full_name": "RRavala/betterpython",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-17T02:28:23Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42900449515",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20739318265,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/2024-grpc-rest",
+            "head": "188492c83aa48ac499275f5887e94a3c573d7a93",
+            "before": "9d810940190a86275c61765fafcf5f8904298681",
+            "commits": [
+                {
+                    "sha": "188492c83aa48ac499275f5887e94a3c573d7a93",
+                    "author": {
+                        "email": "andreas@arjancodes.com",
+                        "name": "Andreas Bergman"
+                    },
+                    "message": "Init example",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/188492c83aa48ac499275f5887e94a3c573d7a93"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-16T11:01:13Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42896987939",
+        "type": "PushEvent",
+        "actor": {
+            "id": 2195171,
+            "login": "egges",
+            "display_login": "egges",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/egges",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2195171?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20737656940,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "0b8c8ab74908be5ed9239fcdaed875548d3f595c",
+            "before": "05bcb99c1a244c14472cbfec4714723481b12c1f",
+            "commits": [
+                {
+                    "sha": "0b8c8ab74908be5ed9239fcdaed875548d3f595c",
+                    "author": {
+                        "email": "ABDreos@users.noreply.github.com",
+                        "name": "ABDreos"
+                    },
+                    "message": "Code formatted with Ruff",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/0b8c8ab74908be5ed9239fcdaed875548d3f595c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-16T09:23:32Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42896982799",
+        "type": "PushEvent",
+        "actor": {
+            "id": 2195171,
+            "login": "egges",
+            "display_login": "egges",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/egges",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2195171?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20737654444,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/2024-duplication",
+            "head": "e877e1e0f874f122446261f71147925d2868e5f8",
+            "before": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+            "commits": [
+                {
+                    "sha": "e877e1e0f874f122446261f71147925d2868e5f8",
+                    "author": {
+                        "email": "ABDreos@users.noreply.github.com",
+                        "name": "ABDreos"
+                    },
+                    "message": "Code formatted with Ruff",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/e877e1e0f874f122446261f71147925d2868e5f8"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-16T09:23:24Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42896973476",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20737650246,
+            "size": 4,
+            "distinct_size": 4,
+            "ref": "refs/heads/main",
+            "head": "05bcb99c1a244c14472cbfec4714723481b12c1f",
+            "before": "1f03e479929eaac436ae43d9c4263c3e87435313",
+            "commits": [
+                {
+                    "sha": "77bf6ebb60c6d91561c570d400951162e7d50135",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Added first duplication examples.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/77bf6ebb60c6d91561c570d400951162e7d50135"
+                },
+                {
+                    "sha": "65a55469e9544ac4698b5c6a44f129b24ed2e3c5",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Added bragir refactoring example.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/65a55469e9544ac4698b5c6a44f129b24ed2e3c5"
+                },
+                {
+                    "sha": "56628dae266b3c982725c5f4737e456403526d4b",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Minor update to duplication example",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/56628dae266b3c982725c5f4737e456403526d4b"
+                },
+                {
+                    "sha": "05bcb99c1a244c14472cbfec4714723481b12c1f",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Added going too far with removing duplication.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/05bcb99c1a244c14472cbfec4714723481b12c1f"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-16T09:23:09Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42896972928",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 54,
+            "pull_request": {
+                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54",
+                "id": 2127316304,
+                "node_id": "PR_kwDOFHLQ685-zEVQ",
+                "html_url": "https://github.com/ArjanCodes/examples/pull/54",
+                "diff_url": "https://github.com/ArjanCodes/examples/pull/54.diff",
+                "patch_url": "https://github.com/ArjanCodes/examples/pull/54.patch",
+                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54",
+                "number": 54,
+                "state": "closed",
+                "locked": false,
+                "title": "2024 duplication",
+                "user": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-16T09:23:00Z",
+                "updated_at": "2024-10-16T09:23:07Z",
+                "closed_at": "2024-10-16T09:23:07Z",
+                "merged_at": "2024-10-16T09:23:07Z",
+                "merge_commit_sha": "05bcb99c1a244c14472cbfec4714723481b12c1f",
+                "assignee": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "assignees": [
+                    {
+                        "login": "ABDreos",
+                        "id": 150030839,
+                        "node_id": "U_kgDOCPFJ9w",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ABDreos",
+                        "html_url": "https://github.com/ABDreos",
+                        "followers_url": "https://api.github.com/users/ABDreos/followers",
+                        "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                        "repos_url": "https://api.github.com/users/ABDreos/repos",
+                        "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    }
+                ],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits",
+                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments",
+                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments",
+                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                "head": {
+                    "label": "ArjanCodes:2024-duplication",
+                    "ref": "2024-duplication",
+                    "sha": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "ArjanCodes:main",
+                    "ref": "main",
+                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54"
+                    },
+                    "html": {
+                        "href": "https://github.com/ArjanCodes/examples/pull/54"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e"
+                    }
+                },
+                "author_association": "COLLABORATOR",
+                "auto_merge": null,
+                "active_lock_reason": null,
+                "merged": true,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 4,
+                "additions": 2312,
+                "deletions": 0,
+                "changed_files": 65
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-16T09:23:08Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42896969236",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 54,
+            "pull_request": {
+                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54",
+                "id": 2127316304,
+                "node_id": "PR_kwDOFHLQ685-zEVQ",
+                "html_url": "https://github.com/ArjanCodes/examples/pull/54",
+                "diff_url": "https://github.com/ArjanCodes/examples/pull/54.diff",
+                "patch_url": "https://github.com/ArjanCodes/examples/pull/54.patch",
+                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54",
+                "number": 54,
+                "state": "open",
+                "locked": false,
+                "title": "2024 duplication",
+                "user": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-16T09:23:00Z",
+                "updated_at": "2024-10-16T09:23:00Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": null,
+                "assignee": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "assignees": [
+                    {
+                        "login": "ABDreos",
+                        "id": 150030839,
+                        "node_id": "U_kgDOCPFJ9w",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ABDreos",
+                        "html_url": "https://github.com/ABDreos",
+                        "followers_url": "https://api.github.com/users/ABDreos/followers",
+                        "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                        "repos_url": "https://api.github.com/users/ABDreos/repos",
+                        "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    }
+                ],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits",
+                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments",
+                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments",
+                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                "head": {
+                    "label": "ArjanCodes:2024-duplication",
+                    "ref": "2024-duplication",
+                    "sha": "eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "ArjanCodes:main",
+                    "ref": "main",
+                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54"
+                    },
+                    "html": {
+                        "href": "https://github.com/ArjanCodes/examples/pull/54"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/54/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/54/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/eec86aa1b0d0e639aa8c694d8f3da1cfdb1dc84e"
+                    }
+                },
+                "author_association": "COLLABORATOR",
+                "auto_merge": null,
+                "active_lock_reason": null,
+                "merged": false,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": null,
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 4,
+                "additions": 2312,
+                "deletions": 0,
+                "changed_files": 65
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-16T09:23:02Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42862782090",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20720674811,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/2024-grpc-rest",
+            "head": "9d810940190a86275c61765fafcf5f8904298681",
+            "before": "70d4561d1185e25803236547c1eac33504ee0c67",
+            "commits": [
+                {
+                    "sha": "9d810940190a86275c61765fafcf5f8904298681",
+                    "author": {
+                        "email": "andreas@arjancodes.com",
+                        "name": "Andreas Bergman"
+                    },
+                    "message": "Update",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/9d810940190a86275c61765fafcf5f8904298681"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T13:09:32Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42860824662",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20719704135,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/2024-grpc-rest",
+            "head": "70d4561d1185e25803236547c1eac33504ee0c67",
+            "before": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
+            "commits": [
+                {
+                    "sha": "70d4561d1185e25803236547c1eac33504ee0c67",
+                    "author": {
+                        "email": "andreas@arjancodes.com",
+                        "name": "Andreas Bergman"
+                    },
+                    "message": "Follow more conventional structure and update makefile to match that",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/70d4561d1185e25803236547c1eac33504ee0c67"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T12:20:18Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42859977848",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20719288302,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/2024-grpc-rest",
+            "head": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
+            "before": "8c5596c374835848972387b8120123e34feb1dae",
+            "commits": [
+                {
+                    "sha": "42b0ec28c1894ff45f2a25b804ac0e9a12abdf37",
+                    "author": {
+                        "email": "andreas@arjancodes.com",
+                        "name": "Andreas Bergman"
+                    },
+                    "message": "Init example",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/42b0ec28c1894ff45f2a25b804ac0e9a12abdf37"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-15T11:56:44Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42855020702",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 22388092,
+            "login": "linhduongtuan",
+            "display_login": "linhduongtuan",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/linhduongtuan",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22388092?"
+        },
+        "repo": {
+            "id": 601675381,
+            "name": "ArjanCodes/2023-attrs",
+            "url": "https://api.github.com/repos/ArjanCodes/2023-attrs"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-15T09:34:26Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42844755517",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 59735011,
+            "login": "YuKangjie",
+            "display_login": "YuKangjie",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/YuKangjie",
+            "avatar_url": "https://avatars.githubusercontent.com/u/59735011?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-15T02:52:55Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42836142348",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 110493409,
+            "login": "Volodymyr-Hamalii",
+            "display_login": "Volodymyr-Hamalii",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Volodymyr-Hamalii",
+            "avatar_url": "https://avatars.githubusercontent.com/u/110493409?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "forkee": {
+                "id": 872625402,
+                "node_id": "R_kgDONAM0-g",
+                "name": "betterpython",
+                "full_name": "Volodymyr-Hamalii/betterpython",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T19:10:25Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42826097153",
+        "type": "PushEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "repository_id": 343068907,
+            "push_id": 20702376666,
+            "size": 2,
+            "distinct_size": 2,
+            "ref": "refs/heads/main",
+            "head": "1f03e479929eaac436ae43d9c4263c3e87435313",
+            "before": "386709bef0539d217a856bbd3f5a928922da0960",
+            "commits": [
+                {
+                    "sha": "e69a5593d9b9abac878817039f79fe84f3d14420",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Added code examples.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/e69a5593d9b9abac878817039f79fe84f3d14420"
+                },
+                {
+                    "sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                    "author": {
+                        "email": "arjan@quarterfall.com",
+                        "name": "Arjan Egges"
+                    },
+                    "message": "Added scrape check",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ArjanCodes/examples/commits/1f03e479929eaac436ae43d9c4263c3e87435313"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-14T13:45:26Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42826096716",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 53,
+            "pull_request": {
+                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53",
+                "id": 2123114057,
+                "node_id": "PR_kwDOFHLQ685-jCZJ",
+                "html_url": "https://github.com/ArjanCodes/examples/pull/53",
+                "diff_url": "https://github.com/ArjanCodes/examples/pull/53.diff",
+                "patch_url": "https://github.com/ArjanCodes/examples/pull/53.patch",
+                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53",
+                "number": 53,
+                "state": "closed",
+                "locked": false,
+                "title": "2024 python15",
+                "user": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-14T13:45:10Z",
+                "updated_at": "2024-10-14T13:45:24Z",
+                "closed_at": "2024-10-14T13:45:24Z",
+                "merged_at": "2024-10-14T13:45:24Z",
+                "merge_commit_sha": "1f03e479929eaac436ae43d9c4263c3e87435313",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [
+                    {
+                        "login": "egges",
+                        "id": 2195171,
+                        "node_id": "MDQ6VXNlcjIxOTUxNzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2195171?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/egges",
+                        "html_url": "https://github.com/egges",
+                        "followers_url": "https://api.github.com/users/egges/followers",
+                        "following_url": "https://api.github.com/users/egges/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/egges/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/egges/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/egges/subscriptions",
+                        "organizations_url": "https://api.github.com/users/egges/orgs",
+                        "repos_url": "https://api.github.com/users/egges/repos",
+                        "events_url": "https://api.github.com/users/egges/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/egges/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    }
+                ],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits",
+                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments",
+                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments",
+                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                "head": {
+                    "label": "ArjanCodes:2024-python15",
+                    "ref": "2024-python15",
+                    "sha": "ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "ArjanCodes:main",
+                    "ref": "main",
+                    "sha": "386709bef0539d217a856bbd3f5a928922da0960",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53"
+                    },
+                    "html": {
+                        "href": "https://github.com/ArjanCodes/examples/pull/53"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a"
+                    }
+                },
+                "author_association": "COLLABORATOR",
+                "auto_merge": null,
+                "active_lock_reason": null,
+                "merged": true,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 2,
+                "additions": 3182,
+                "deletions": 0,
+                "changed_files": 16
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T13:45:25Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42826087597",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 150030839,
+            "login": "ABDreos",
+            "display_login": "ABDreos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ABDreos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/150030839?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "opened",
+            "number": 53,
+            "pull_request": {
+                "url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53",
+                "id": 2123114057,
+                "node_id": "PR_kwDOFHLQ685-jCZJ",
+                "html_url": "https://github.com/ArjanCodes/examples/pull/53",
+                "diff_url": "https://github.com/ArjanCodes/examples/pull/53.diff",
+                "patch_url": "https://github.com/ArjanCodes/examples/pull/53.patch",
+                "issue_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53",
+                "number": 53,
+                "state": "open",
+                "locked": false,
+                "title": "2024 python15",
+                "user": {
+                    "login": "ABDreos",
+                    "id": 150030839,
+                    "node_id": "U_kgDOCPFJ9w",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/150030839?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ABDreos",
+                    "html_url": "https://github.com/ABDreos",
+                    "followers_url": "https://api.github.com/users/ABDreos/followers",
+                    "following_url": "https://api.github.com/users/ABDreos/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ABDreos/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ABDreos/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ABDreos/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ABDreos/orgs",
+                    "repos_url": "https://api.github.com/users/ABDreos/repos",
+                    "events_url": "https://api.github.com/users/ABDreos/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ABDreos/received_events",
+                    "type": "User",
+                    "site_admin": false
+                },
+                "body": null,
+                "created_at": "2024-10-14T13:45:10Z",
+                "updated_at": "2024-10-14T13:45:10Z",
+                "closed_at": null,
+                "merged_at": null,
+                "merge_commit_sha": null,
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [
+                    {
+                        "login": "egges",
+                        "id": 2195171,
+                        "node_id": "MDQ6VXNlcjIxOTUxNzE=",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/2195171?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/egges",
+                        "html_url": "https://github.com/egges",
+                        "followers_url": "https://api.github.com/users/egges/followers",
+                        "following_url": "https://api.github.com/users/egges/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/egges/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/egges/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/egges/subscriptions",
+                        "organizations_url": "https://api.github.com/users/egges/orgs",
+                        "repos_url": "https://api.github.com/users/egges/repos",
+                        "events_url": "https://api.github.com/users/egges/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/egges/received_events",
+                        "type": "User",
+                        "site_admin": false
+                    }
+                ],
+                "requested_teams": [],
+                "labels": [],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits",
+                "review_comments_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments",
+                "review_comment_url": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments",
+                "statuses_url": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                "head": {
+                    "label": "ArjanCodes:2024-python15",
+                    "ref": "2024-python15",
+                    "sha": "ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "base": {
+                    "label": "ArjanCodes:main",
+                    "ref": "main",
+                    "sha": "386709bef0539d217a856bbd3f5a928922da0960",
+                    "user": {
+                        "login": "ArjanCodes",
+                        "id": 79447507,
+                        "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NDQ3NTA3",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/79447507?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ArjanCodes",
+                        "html_url": "https://github.com/ArjanCodes",
+                        "followers_url": "https://api.github.com/users/ArjanCodes/followers",
+                        "following_url": "https://api.github.com/users/ArjanCodes/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ArjanCodes/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ArjanCodes/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ArjanCodes/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ArjanCodes/orgs",
+                        "repos_url": "https://api.github.com/users/ArjanCodes/repos",
+                        "events_url": "https://api.github.com/users/ArjanCodes/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ArjanCodes/received_events",
+                        "type": "Organization",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 343068907,
+                        "node_id": "MDEwOlJlcG9zaXRvcnkzNDMwNjg5MDc=",
+                        "name": "examples",
+                        "full_name": "ArjanCodes/examples",
+                        "private": false
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53"
+                    },
+                    "html": {
+                        "href": "https://github.com/ArjanCodes/examples/pull/53"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/issues/53/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/pulls/53/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/ArjanCodes/examples/statuses/ea2823b83ef22d0e8a4ff26dbf00fc5d7610880a"
+                    }
+                },
+                "author_association": "COLLABORATOR",
+                "auto_merge": null,
+                "active_lock_reason": null,
+                "merged": false,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": null,
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 2,
+                "additions": 3182,
+                "deletions": 0,
+                "changed_files": 16
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T13:45:11Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42825470565",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 14107397,
+            "login": "mdeaves",
+            "display_login": "mdeaves",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/mdeaves",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14107397?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "forkee": {
+                "id": 872460760,
+                "node_id": "R_kgDONACx2A",
+                "name": "arjun_codes_examples",
+                "full_name": "mdeaves/arjun_codes_examples",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T13:29:09Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42823807369",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 36025380,
+            "login": "shanmugs",
+            "display_login": "shanmugs",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/shanmugs",
+            "avatar_url": "https://avatars.githubusercontent.com/u/36025380?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "forkee": {
+                "id": 872438648,
+                "node_id": "R_kgDONABbeA",
+                "name": "py_examples",
+                "full_name": "shanmugs/py_examples",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T12:45:43Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42823789623",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 2417292,
+            "login": "iamsathish",
+            "display_login": "iamsathish",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/iamsathish",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2417292?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "forkee": {
+                "id": 872438410,
+                "node_id": "R_kgDONABaig",
+                "name": "examples",
+                "full_name": "iamsathish/examples",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-14T12:45:14Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42808959089",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 38138908,
+            "login": "VwakeM",
+            "display_login": "VwakeM",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/VwakeM",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38138908?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-14T04:36:31Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42803028680",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 4193389,
+            "login": "Amourspirit",
+            "display_login": "Amourspirit",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Amourspirit",
+            "avatar_url": "https://avatars.githubusercontent.com/u/4193389?"
+        },
+        "repo": {
+            "id": 343068907,
+            "name": "ArjanCodes/examples",
+            "url": "https://api.github.com/repos/ArjanCodes/examples"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-13T19:50:58Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    },
+    {
+        "id": "42801442389",
+        "type": "ForkEvent",
+        "actor": {
+            "id": 141393493,
+            "login": "thadigitalguru",
+            "display_login": "thadigitalguru",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thadigitalguru",
+            "avatar_url": "https://avatars.githubusercontent.com/u/141393493?"
+        },
+        "repo": {
+            "id": 330415623,
+            "name": "ArjanCodes/betterpython",
+            "url": "https://api.github.com/repos/ArjanCodes/betterpython"
+        },
+        "payload": {
+            "forkee": {
+                "id": 872057405,
+                "node_id": "R_kgDOM_qKPQ",
+                "name": "betterpython",
+                "full_name": "thadigitalguru/betterpython",
+                "private": false,
+                "public": true
+            }
+        },
+        "public": true,
+        "created_at": "2024-10-13T17:08:55Z",
+        "org": {
+            "id": 79447507,
+            "login": "ArjanCodes",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/ArjanCodes",
+            "avatar_url": "https://avatars.githubusercontent.com/u/79447507?"
+        }
+    }
+]

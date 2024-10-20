@@ -1,5 +1,6 @@
 import os
 from pprint import pprint
+import json
 
 from dotenv import load_dotenv
 
@@ -11,9 +12,10 @@ github_token = os.getenv("GITHUB_TOKEN")
 
 
 def main():
-    events = get_user_events("angelabauer", github_token)
+    events = get_user_events("arjancodes", github_token)
 
-    pprint(events[:2])
+    with open("events.json", "w") as json_file:
+        json.dump(events, json_file, indent=4)
 
 
 if __name__ == "__main__":

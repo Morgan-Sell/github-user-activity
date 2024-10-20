@@ -8,10 +8,10 @@ from src.custom_errors import UnauthorizedError, UsernameNotFoundError
 
 
 @patch("urllib.request.urlopen")
-def test_get_user_events_success(mock_urlopen, github_events):
+def test_get_user_events_success(mock_urlopen, github_events_simple):
     # Arrange: mock a successful response
     mock_response = MagicMock()
-    mock_response.read.return_value = json.dumps(github_events).encode("utf-8")
+    mock_response.read.return_value = json.dumps(github_events_simple).encode("utf-8")
     # To support 'with' statement
     mock_response.__enter__.return_value = mock_response
     mock_urlopen.return_value = mock_response
@@ -58,10 +58,10 @@ def test_get_user_events_raises_404_exception(mock_urlopen):
 
 
 @patch("urllib.request.urlopen")
-def test_get_user_events_by_type_success(mock_urlopen, github_events):
+def test_get_user_events_by_type_success(mock_urlopen, github_events_simple):
     # Arrange: mock a successful response
     mock_response = MagicMock()
-    mock_response.read.return_value = json.dumps(github_events).encode("utf-8")
+    mock_response.read.return_value = json.dumps(github_events_simple).encode("utf-8")
     # To support 'with' statement
     mock_response.__enter__.return_value = mock_response
     mock_urlopen.return_value = mock_response

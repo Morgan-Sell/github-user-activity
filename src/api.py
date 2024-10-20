@@ -2,7 +2,7 @@ import os
 from typing import Dict, List
 
 import json
-import urllib
+from urllib import request, error
 
 from src.config import GITHUB_API_URL
 from src.custom_errors import (
@@ -18,17 +18,17 @@ from src.custom_errors import (
 def get_user_events(username: str, github_token: str) -> List[Dict]:
     # create request object with token
     url = f"{GITHUB_API_URL}{username}/events"
-    req = urllib.request.Request(url)
+    req = request.Request(url)
     req.add_header("Authorization", f"token {github_token}")
 
     try:
-        with urllib.request.urlopen(req) as response:
+        with request.urlopen(req) as response:
             data = response.read()
             events = json.loads(data)
 
         return events
 
-    except urllib.error.HTTPError as e:
+    except error.HTTPError as e:
         print("Error code: ", e.code)
         if e.code == 401:
             raise UnauthorizedError("Unauthorized: Check your GitHub token.")
@@ -37,11 +37,11 @@ def get_user_events(username: str, github_token: str) -> List[Dict]:
         else:
             raise GitHubAPIError(f"HTTP error: {e.code} {e.reason}")
 
-    except urllib.error.URLError as e:
+    except error.URLError as e:
         print("Error code: ", e.code)
         raise APIConnectionError(f"Connection error: {e.reason}")
 
-    except urllib.error.JSONDecodeError as e:
+    except error.JSONDecodeError as e:
         print("Error code: ", e.code)
         raise JSONParseError(f"JSON parsing error: {e}")
 
