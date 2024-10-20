@@ -23,6 +23,16 @@ classifiers = [
 
 [tool.pytest.ini_options]
 testpaths = ["."]
+addopts = "--cov=src --cov-report=term-missing"
+
+[tool.coverage.run]
+branch = true
+source = ["src"]
+omit = ["src/main.py"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true
 
 [tool.ruff]
 line-length = 88 # match black's line length

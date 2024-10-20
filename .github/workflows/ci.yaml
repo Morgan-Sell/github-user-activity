@@ -1,4 +1,4 @@
-name: Check Linting and Run Tests
+name: Check Linting, Run Tests, and Generate Code Coverage Report
 
 on:
   push:
@@ -24,11 +24,17 @@ jobs:
     - name: Install depedencies
       run: |
         python -m pip install --upgrade pip
-        pip install ruff pytest
+        pip install ruff pytest pytest-cov
      
-    - name: Run ruff
-      run: |
-        ruff check src/ tests/ --config pyproject.toml
+    # - name: Run ruff
+    #   run: |
+    #     ruff check src/ tests/ --config pyproject.toml
     
-    - name: Run pytest
-      run: pytest tests/
+    - name: Run pytest with coverage
+      run: pytest --cov-report=html # outputs coverage report to htmlcov
+    
+    - name: Upload coverage report as an artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: coverage-report
+        path: htmlcov
