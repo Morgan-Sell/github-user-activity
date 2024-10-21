@@ -1,7 +1,10 @@
 import pytest
 
-from src.operations import convert_event_counter_to_descriptions, count_events_by_type
-
+from src.operations import (
+    convert_event_counter_to_descriptions,
+    count_events_by_type,
+    is_valid_event_type,
+)
 
 
 def test_count_events_by_type(github_events_complex):
@@ -38,3 +41,15 @@ def test_convert_event_counter_to_descriptions():
     assert descriptions[1] == "Pushed 3 times."
     assert descriptions[2] == "Opened, closed, or merged 2 PRs."
 
+
+@pytest.mark.parametrize(
+    argnames="event_type, is_valid",
+    argvalues=[
+        ("PushEvent", True),
+        ("ScratchHeadEvent", False),
+        ("ForkEvent", True),
+        (369, False),
+    ],
+)
+def test_is_valid_event_type(event_type, is_valid):
+    assert is_valid_event_type(event_type) == is_valid

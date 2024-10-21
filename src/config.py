@@ -46,15 +46,11 @@ EVENT_TYPE_ACTION_COUNT_CROSSWALK = {
     "GollumEvent": lambda num: f"Created or updated {num} wiki pages.",
     "IssueCommentEvent": lambda num: f"Commented on {num} issues or PRs.",
     "IssuesEvent": lambda num: f"Open or closed {num} issues.",
-    "MemberEvent": (
-        lambda num: f"Added or removed {num} times as a collaborator."
-    ),
+    "MemberEvent": (lambda num: f"Added or removed {num} times as a collaborator."),
     "PublicEvent": lambda num: f"Changed {num} repos from private to public.",
     "PullRequestEvent": lambda num: f"Opened, closed, or merged {num} PRs.",
     "PullRequestReviewEvent": lambda num: f"Reviewed {num} PRs.",
-    "PullRequestReviewCommentEvent": (
-        lambda num: f"Commented on {num} PR reviews."
-    ),
+    "PullRequestReviewCommentEvent": (lambda num: f"Commented on {num} PR reviews."),
     "PushEvent": lambda num: f"Pushed {num} times.",
     "ReleaseEvent": lambda num: f"Created {num} new releases.",
     "SponsorshipEvent": lambda num: f"Sponsored {num} developers or projects.",

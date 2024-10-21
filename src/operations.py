@@ -1,6 +1,6 @@
 from typing import Dict, List
 
-from src.config import EVENT_TYPE_ACTION_COUNT_CROSSWALK
+from src.config import EVENT_TYPE_ACTION_COUNT_CROSSWALK, EVENT_TYPES
 
 
 def count_events_by_type(events: List[Dict]) -> Dict:
@@ -24,3 +24,12 @@ def convert_event_counter_to_descriptions(event_type_counter: Dict) -> List[str]
         descriptions.append(desc)
 
     return descriptions
+
+
+def is_valid_event_type(event_type: str) -> bool:
+    # TODO: LIMIT USER TO ~5 event types
+    if event_type in EVENT_TYPES:
+        return True
+    else:
+        print("Entered invalid event type. See README for acceptable events.")
+        return False
