@@ -9,7 +9,7 @@ THIS_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 # Set Python Path
 export PYTHONPATH=$THIS_DIR
 
-# Use function to run application if local PC is already properly configured
+# Run application once configuration is setup
 function run-app {
     # echo "Running application with PYTHONPATH=$PYTHONPATH"
     python src/main.py
