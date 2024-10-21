@@ -56,3 +56,14 @@ EVENT_TYPE_ACTION_COUNT_CROSSWALK = {
     "SponsorshipEvent": lambda num: f"Sponsored {num} developers or projects.",
     "WatchEvent": lambda num: f"Starred {num} repos.",
 }
+
+
+EVENT_TYPES_TO_REVIEW = [
+    "IssueCommentEvent",
+    "IssuesEvent",
+    "PullRequestEvent",
+    "PullRequestReviewEvent",
+    "PullRequestReviewCommentEvent",
+    "PushEvent",
+]
+

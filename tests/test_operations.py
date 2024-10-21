@@ -3,7 +3,7 @@ import pytest
 from src.operations import (
     convert_event_counter_to_descriptions,
     count_events_by_type,
-    is_valid_event_type,
+    is_valid_event_type_to_review,
 )
 
 
@@ -47,9 +47,10 @@ def test_convert_event_counter_to_descriptions():
     argvalues=[
         ("PushEvent", True),
         ("ScratchHeadEvent", False),
-        ("ForkEvent", True),
+        ("ForkEvent", False),
+        ("PullRequestReviewEvent", True),
         (369, False),
     ],
 )
-def test_is_valid_event_type(event_type, is_valid):
-    assert is_valid_event_type(event_type) == is_valid
+def test_is_valid_event_type_to_review(event_type, is_valid):
+    assert is_valid_event_type_to_review(event_type) == is_valid
