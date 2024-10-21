@@ -5,7 +5,11 @@ import json
 from dotenv import load_dotenv
 
 from src.api import get_user_events
-from src.operations import convert_event_counter_to_descriptions, count_events_by_type
+from src.operations import (
+    convert_event_counter_to_descriptions,
+    count_events_by_type,
+    is_valid_event_type,
+)
 
 load_dotenv()
 
@@ -24,6 +28,15 @@ def main():
 
         for desc in descriptions:
             print(desc)
+
+        #
+        valid_event_type = False
+        while valid_event_type == False:
+            user_event_type = input(
+                f"\nWant to hear details of a specific event {github_user}'s"
+            )
+
+            valid_event_type = is_valid_event_type(user_event_type)
 
     # payload_events = {}
 
