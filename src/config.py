@@ -59,11 +59,8 @@ EVENT_TYPE_ACTION_COUNT_CROSSWALK = {
 
 
 EVENT_TYPES_TO_REVIEW = [
-    "IssueCommentEvent",
-    "IssuesEvent",
+    "IssueCommentEvent" "IssuesEvent",
     "PullRequestEvent",
     "PullRequestReviewEvent",
-    "PullRequestReviewCommentEvent",
     "PushEvent",
 ]
-

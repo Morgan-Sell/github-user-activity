@@ -1,6 +1,10 @@
 from typing import Dict, List
 
-from src.config import EVENT_TYPE_ACTION_COUNT_CROSSWALK, EVENT_TYPES, EVENT_TYPES_TO_REVIEW
+from src.config import (
+    EVENT_TYPE_ACTION_COUNT_CROSSWALK,
+    EVENT_TYPES,
+    EVENT_TYPES_TO_REVIEW,
+)
 
 
 def count_events_by_type(events: List[Dict]) -> Dict:
@@ -30,10 +34,5 @@ def is_valid_event_type_to_review(event_type: str) -> bool:
     if event_type in EVENT_TYPES_TO_REVIEW:
         return True
     else:
-        print(
-            "Entered invalid event type. See README for " \
-            "acceptable event types."
-        )
+        print("Entered invalid event type. See README for " "acceptable event types.")
         return False
-
-

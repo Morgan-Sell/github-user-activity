@@ -1,6 +1,7 @@
 import json
-from unittest.mock import MagicMock, patch
 import urllib
+from unittest.mock import MagicMock, patch
+
 import pytest
 
 from src.api import get_user_events, get_user_events_by_type

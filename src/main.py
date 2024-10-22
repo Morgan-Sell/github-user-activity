@@ -1,6 +1,6 @@
+import json
 import os
 from pprint import pprint
-import json
 
 from dotenv import load_dotenv
 
@@ -8,7 +8,7 @@ from src.api import get_user_events
 from src.operations import (
     convert_event_counter_to_descriptions,
     count_events_by_type,
-    is_valid_event_type,
+    is_valid_event_type_to_review,
 )
 
 load_dotenv()
@@ -26,8 +26,11 @@ def main():
         event_types_counter = count_events_by_type(events)
         descriptions = convert_event_counter_to_descriptions(event_types_counter)
 
-        for desc in descriptions:
-            print(desc)
+        with open("events.json", "w") as json_file:
+            json.dump(events, json_file, indent=4)
+
+        # for desc in descriptions:
+        #     print(desc)
 
         #
         valid_event_type = False
@@ -36,7 +39,7 @@ def main():
                 f"\nWant to hear details of a specific event {github_user}'s"
             )
 
-            valid_event_type = is_valid_event_type(user_event_type)
+            valid_event_type = is_valid_event_type_to_review(user_event_type)
 
     # payload_events = {}
 

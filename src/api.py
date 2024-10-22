@@ -1,8 +1,7 @@
+import json
 import os
 from typing import Dict, List
-
-import json
-from urllib import request, error, parse
+from urllib import error, parse, request
 
 from src.config import GITHUB_API_URL
 from src.custom_errors import (
