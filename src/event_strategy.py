@@ -54,8 +54,10 @@ class PullRequestStrategy(EventExtractionStrategy):
         return event_data["payload"]["action"]
 
     def extract_recipient(self, event_data) -> str:
-        return event_data["payload"]["pull_request"]["user"]["login"]
-
+        try:
+            return event_data["payload"]["pull_request"]["user"]["login"]
+        except:
+            return "n/a"
 
 class PullRequestReviewStrategy(EventExtractionStrategy):
     def extract_title(self, event_data) -> str:
@@ -73,10 +75,10 @@ class PushStrategy(EventExtractionStrategy):
         return event_data["payload"]["commits"][0]["message"]
 
     def extract_action(self, event_data) -> str:
-        return "--"
+        return "n/a"
 
     def extract_recipient(self, event_data) -> str:
-        return "--"
+        return "n/a"
 
 
 # -- EventType Class - the "What" --
@@ -106,3 +108,5 @@ class EventType:
 
     def get_created_date(self):
         return self.extraction_strategy.extract_created_date(self.event_data)
+
+

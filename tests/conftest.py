@@ -3,8 +3,6 @@ from datetime import datetime, timedelta
 import pytest
 
 
-
-
 @pytest.fixture(scope="function")
 def github_events_simple():
     return [
@@ -193,12 +191,12 @@ def issue_comment_event():
             "display_login": "BiggieSmalls",
             "gravatar_id": "",
             "url": "https://api.github.com/users/BiggieSmalls",
-            "avatar_url": "https://avatars.githubusercontent.com/u/11805379?"
+            "avatar_url": "https://avatars.githubusercontent.com/u/11805379?",
         },
         "repo": {
             "id": 163630824,
             "name": "bad-boy-records/juicy_beats",
-            "url": "https://api.github.com/repos/bad-boy-records/juicy_beats"
+            "url": "https://api.github.com/repos/bad-boy-records/juicy_beats",
         },
         "payload": {
             "action": "created",
@@ -242,13 +240,13 @@ def issue_comment_event():
                 "user": {
                     "login": "BiggieSmalls",
                     "id": 11805379,
-                    "avatar_url": "https://avatars.githubusercontent.com/u/11805379?v=4"
+                    "avatar_url": "https://avatars.githubusercontent.com/u/11805379?v=4",
                 },
                 "created_at": datetime(2024, 10, 21, 7, 0, 28),
                 "body": "Much love for spotting that, @BiggieSmalls. We got it locked down, for real!",
-            }
+            },
         },
-        "created_at": datetime(2024, 10, 21, 7, 0, 30)
+        "created_at": datetime(2024, 10, 21, 7, 0, 30),
     }
 
 
@@ -263,12 +261,12 @@ def issue_event():
             "display_login": "BiggieSmalls",
             "gravatar_id": "",
             "url": "https://api.github.com/users/BiggieSmalls",
-            "avatar_url": "https://avatars.githubusercontent.com/u/11805379?"
+            "avatar_url": "https://avatars.githubusercontent.com/u/11805379?",
         },
         "repo": {
             "id": 163630824,
             "name": "bad-boy-records/juicy_beats",
-            "url": "https://api.github.com/repos/bad-boy-records/juicy_beats"
+            "url": "https://api.github.com/repos/bad-boy-records/juicy_beats",
         },
         "payload": {
             "action": "closed",
@@ -297,7 +295,7 @@ def issue_event():
                     "received_events_url": "https://api.github.com/users/michaelrussell4/received_events",
                     "type": "User",
                     "user_view_type": "public",
-                    "site_admin": False
+                    "site_admin": False,
                 },
                 "state": "closed",
                 "created_at": datetime(2024, 10, 18, 19, 22, 8),
@@ -305,10 +303,11 @@ def issue_event():
                 "closed_at": datetime(2024, 10, 21, 6, 58, 31),
                 "author_association": "CONTRIBUTOR",
                 "body": "We had to fix that flow. 'Raise' wasn’t fitting the vibe, so we smoothed it out to 'ignore'. Juicy!",
-            }
+            },
         },
-        "created_at": datetime(2024, 10, 21, 6, 58, 32)
+        "created_at": datetime(2024, 10, 21, 6, 58, 32),
     }
+
 
 @pytest.fixture(scope="function")
 def pull_request_review_event():
@@ -321,12 +320,12 @@ def pull_request_review_event():
             "display_login": "TupacShakur",
             "gravatar_id": "",
             "url": "https://api.github.com/users/TupacShakur",
-            "avatar_url": "https://avatars.githubusercontent.com/u/18749382?"
+            "avatar_url": "https://avatars.githubusercontent.com/u/18749382?",
         },
         "repo": {
             "id": 543210987,
             "name": "death-row-records/all_eyez_on_code",
-            "url": "https://api.github.com/repos/death-row-records/all_eyez_on_code"
+            "url": "https://api.github.com/repos/death-row-records/all_eyez_on_code",
         },
         "payload": {
             "action": "submitted",
@@ -345,7 +344,7 @@ def pull_request_review_event():
                 "user": {
                     "login": "SnoopDogg",
                     "id": 19348283,
-                    "avatar_url": "https://avatars.githubusercontent.com/u/19348283?"
+                    "avatar_url": "https://avatars.githubusercontent.com/u/19348283?",
                 },
                 "created_at": datetime(2024, 10, 19, 18, 34, 27),
                 "updated_at": datetime(2024, 10, 21, 8, 12, 44),
@@ -356,12 +355,12 @@ def pull_request_review_event():
                 "user": {
                     "login": "TupacShakur",
                     "id": 18749382,
-                    "avatar_url": "https://avatars.githubusercontent.com/u/18749382?"
+                    "avatar_url": "https://avatars.githubusercontent.com/u/18749382?",
                 },
                 "body": "Yo, this is tight. Flow’s on point now, let's get it!",
                 "submitted_at": datetime(2024, 10, 21, 8, 14, 10),
-                "state": "approved"
-            }
+                "state": "approved",
+            },
         },
-        "created_at": datetime(2024, 10, 21, 8, 14, 11)
+        "created_at": datetime(2024, 10, 21, 8, 14, 11),
     }
