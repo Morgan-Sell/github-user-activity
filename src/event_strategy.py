@@ -99,10 +99,10 @@ class EventType:
         return self.extraction_strategy.extract_title(self.event_data)
 
     def get_action(self):
-        return self.extraction_strategy.extract_title(self.event_data)
+        return self.extraction_strategy.extract_action(self.event_data)
 
     def get_recipient(self):
         return self.extraction_strategy.extract_recipient(self.event_data)
 
-    def get_recipient(self):
+    def get_created_date(self):
         return self.extraction_strategy.extract_created_date(self.event_data)
