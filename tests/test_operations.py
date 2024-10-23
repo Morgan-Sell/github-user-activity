@@ -1,7 +1,7 @@
 import pytest
 
 from src.operations import (
-    collect_event_type_details_for_review,
+    collect_events_based_on_event_type,
     convert_event_counter_to_descriptions,
     count_events_by_type,
     is_valid_event_type_to_review,
@@ -63,7 +63,7 @@ def test_collect_event_type_details_for_review(github_events_complex):
     events_data = github_events_complex
 
     # Action
-    results = collect_event_type_details_for_review(events_data, "ForkEvent")
+    results = collect_events_based_on_event_type(events_data, "ForkEvent")
 
     # Assert
     expected_results = [events_data[0], events_data[5]]
@@ -74,9 +74,7 @@ def test_prepare_data_for_tabulate(github_events_complex):
     # Arrange
     all_events = github_events_complex
     event_type = "PullRequestEvent"
-    event_data = [
-        event for event in all_events if event["type"] == event_type
-    ]
+    event_data = [event for event in all_events if event["type"] == event_type]
 
     # Action
     results = prepare_data_for_tabulate(event_data, event_type)
@@ -101,6 +99,3 @@ def test_prepare_data_for_tabulate(github_events_complex):
         ],
     ]
     assert results == expected_results
-
-
-    
