@@ -30,8 +30,8 @@ def main():
         descriptions = convert_event_counter_to_descriptions(event_types_counter)
 
         # save events for records
-        with open("events.json", "w") as json_file:
-            json.dump(events, json_file, indent=4)
+        # with open("events.json", "w") as json_file:
+        #     json.dump(events, json_file, indent=4)
 
         # display event activity summary
         print("\n")

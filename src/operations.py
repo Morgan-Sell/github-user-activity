@@ -100,8 +100,8 @@ def prepare_data_for_tabulate(data: List[Dict], event_type: str) -> List[List[st
         event_type (str): The event type that determines the extraction strategy.
 
     Returns:
-        List[List[str]]: A list of lists where each inner list contains the string 
-                         representation of event details (e.g., event ID, repo name, 
+        List[List[str]]: A list of lists where each inner list contains the string
+                         representation of event details (e.g., event ID, repo name,
                          title, etc.) for tabulation.
     """
     strategy = EVENT_TYPE_TO_EXTRACTION_STRATEGY_CROSSWALK[event_type]
@@ -130,12 +130,12 @@ def print_table(data: List[List[str]], headers: List[str]) -> None:
     Print a formatted table using the provided data and headers.
 
     Args:
-        data (List[List[str]]): The table data to be printed, where each 
+        data (List[List[str]]): The table data to be printed, where each
                                 inner list represents a row of values.
         headers (List[str]): The column headers for the table.
 
     Raises:
-        ValueError: If no data is provided or if the number of attributes 
+        ValueError: If no data is provided or if the number of attributes
                     does not match the number of headers.
     """
     if len(data) == 0:
@@ -143,8 +143,8 @@ def print_table(data: List[List[str]], headers: List[str]) -> None:
 
     if len(data[0]) != len(headers):
         raise ValueError(
-            "Number of attributes does not equal the number of column headers."
-            f"There are f{len(data[0])} attributes and f{len(headers)} column headers."
+            "Number of attributes does not equal the number of column headers. "
+            f"There are {len(data[0])} attributes and {len(headers)} column headers."
         )
 
     table = tabulate(data, headers=headers, tablefmt="pretty")

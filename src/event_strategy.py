@@ -5,6 +5,7 @@ class EventExtractionStrategy(ABC):
     """
     Abstract base class for extracting event details from event data.
     """
+
     def extract_event_id(self, event_data) -> str:
         """
         Extract the event ID from the event data.
@@ -84,6 +85,7 @@ class IssueCommentStrategy(EventExtractionStrategy):
     """
     Strategy for extracting details from IssueCommentEvent data.
     """
+
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["issue"]["title"]
 
@@ -95,6 +97,7 @@ class IssueStrategy(EventExtractionStrategy):
     """
     Strategy for extracting details from IssuesEvent data.
     """
+
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["issue"]["title"]
 
@@ -106,6 +109,7 @@ class PullRequestStrategy(EventExtractionStrategy):
     """
     Strategy for extracting details from PullRequestEvent data.
     """
+
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["pull_request"]["title"]
 
@@ -120,6 +124,7 @@ class PullRequestReviewStrategy(EventExtractionStrategy):
     """
     Strategy for extracting details from PullRequestReviewEvent data.
     """
+
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["pull_request"]["title"]
 
@@ -131,6 +136,7 @@ class PushStrategy(EventExtractionStrategy):
     """
     Strategy for extracting details from PushEvent data.
     """
+
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["commits"][0]["message"]
 

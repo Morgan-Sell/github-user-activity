@@ -7,7 +7,6 @@ from src.event_strategy import (
     PushStrategy,
 )
 
-
 GITHUB_API_URL = "https://api.github.com/users/"
 EVENT_TYPES = github_event_types = [
     "CommitCommentEvent",

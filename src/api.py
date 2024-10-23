@@ -82,7 +82,7 @@ def get_user_events_by_type(
         event_type (str): The type of event to filter by.
 
     Returns:
-        List[Dict[Any, Any]]: A list of dictionaries containing events of the 
+        List[Dict[Any, Any]]: A list of dictionaries containing events of the
                               specified type.
     """
     events = get_user_events(username, github_token)

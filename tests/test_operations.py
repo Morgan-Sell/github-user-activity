@@ -6,6 +6,7 @@ from src.operations import (
     count_events_by_type,
     is_valid_event_type_to_review,
     prepare_data_for_tabulate,
+    print_table,
 )
 
 
@@ -99,3 +100,31 @@ def test_prepare_data_for_tabulate(github_events_complex):
         ],
     ]
     assert results == expected_results
+
+
+from typing import List
+
+import pytest
+from tabulate import tabulate
+
+# Assuming print_table is already defined or imported
+
+
+@pytest.mark.parametrize(
+    "data, headers, expected_error_message",
+    [
+        # Test case 1: No data provided (empty list)
+        ([], ["ID", "Name", "Age"], "No data was provided to generate table."),
+        # Test case 2: Mismatch between number of attributes and headers
+        (
+            [["1", "Alice"]],
+            ["ID", "Name", "Age"],
+            "Number of attributes does not equal the number of column headers. "
+            "There are 2 attributes and 3 column headers.",
+        ),
+    ],
+)
+def test_print_table_errors(data, headers, expected_error_message):
+    # Action & Assert
+    with pytest.raises(ValueError, match=expected_error_message):
+        print_table(data, headers)
