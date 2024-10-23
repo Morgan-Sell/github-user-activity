@@ -123,7 +123,7 @@ This application follows the **Strategy Design Pattern**, where each type of Git
     - **PullRequestReviewStrategy**: Extracts information from `PullRequestReviewEvent`.
     - **PushStrategy**: Handles `PushEvent` data.
   
-### Strategy Design Pattern Diagram
+### Strategy Design Pattern
 The diagram below illustrates how the Strategy Design Pattern is implemented in this application:
 
 ![Strategy Pattern Diagram](./img/strategy_pattern_diagram.png)
