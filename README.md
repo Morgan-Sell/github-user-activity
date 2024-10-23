@@ -18,8 +18,8 @@ By using the Strategy pattern, the application delegates event-specific logic to
 - [Documentation](#documentation)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
 - [License](#license)
+- [Acknowledgement](#acknowledgement)
 
 ## Installation
 
@@ -45,15 +45,16 @@ By using the Strategy pattern, the application delegates event-specific logic to
 
     This script will:
 
-   - Check and load environment variables from the .env file.
+   - Check and load environment variables from the `.env` file
    - Set up a virtual environment
    - Activate the virtual environment
    - Install dependencies
   
 3. Run the application:
 
+    ```
     ./run.sh run-app
-
+    ```
 
 ## Usage
 
@@ -61,19 +62,19 @@ Once you run the application, you can select which GitHub user's activity would 
 
 Let's see what [Eric Riddoch](https://github.com/phitoduck), an exceptional MLOps engineer, has been up to.
 
-    ```
-    $ Which GitHub user's activity would you like to see? phitoduck
+```
+$ Which GitHub user's activity would you like to see? phitoduck
 
-    Pushed 66 times.
-    Created 15 repos, branches, or tags.
-    Open or closed 2 issues.
-    Commented on 3 issues or PRs.
-    Opened, closed, or merged 2 PRs.
-    Reviewed 4 PRs.
-    Commented on 3 PR reviews.
-    Forked 1 repos.
-    Starred 1 repos.
-    ```
+Pushed 66 times.
+Created 15 repos, branches, or tags.
+Open or closed 2 issues.
+Commented on 3 issues or PRs.
+Opened, closed, or merged 2 PRs.
+Reviewed 4 PRs.
+Commented on 3 PR reviews.
+Forked 1 repos.
+Starred 1 repos.
+```
 
 The application will then ask if you would like to see details of a specific even type. As of now, there are **5 valid event types** that must be entered in the following format:
 
@@ -83,9 +84,12 @@ The application will then ask if you would like to see details of a specific eve
 - PullRequestReviewEvent
 - PushEvent
 
-    ```
-    $ Select an event type to see a more detailed history of phitoduck's activity. PullRequestReviewEvent
-    ```
+
+Here's an example of the question and a response:
+
+```
+$ Select an event type to see a more detailed history of phitoduck's activity. PullRequestReviewEvent
+```
 
 The application will generate a table showcasing the details of the selected GitHub event, which in this example is a PR review.
 
@@ -144,7 +148,7 @@ The application uses a `.env` file to securely manage configuration variables. Y
 Replace `<your-github-token>` with your actual GitHub token. This token is essential for making authenticated requests to the GitHub API.
 
 
-Documentation
+## Documentation
 The project structure is as follows:
 
 ```
