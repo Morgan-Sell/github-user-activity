@@ -90,7 +90,7 @@ The application will then ask if you would like to see details of a specific eve
 The application will generate a table showcasing the details of the selected GitHub event, which in this example is a PR review.
 
 <p align="center">
-  <img src="./img/strategy_pattern_diagram.png" alt="Strategy Pattern Diagram" width="500"/>
+  <img src="./img/event_table.png" alt="Strategy Pattern Diagram" width="500"/>
 </p>
 
 
