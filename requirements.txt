@@ -2,6 +2,6 @@ black
 isort
 pytest
 ruff
-requests
 python-dotenv
 pytest-cov
+tabulate

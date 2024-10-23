@@ -2,9 +2,11 @@ from typing import Dict, List
 
 from src.config import (
     EVENT_TYPE_ACTION_COUNT_CROSSWALK,
+    EVENT_TYPE_TO_EXTRACTION_STRATEGY_CROSSWALK,
     EVENT_TYPES,
     EVENT_TYPES_TO_REVIEW,
 )
+from src.event_strategy import EventType
 
 
 def count_events_by_type(events: List[Dict]) -> Dict:
@@ -36,3 +38,35 @@ def is_valid_event_type_to_review(event_type: str) -> bool:
     else:
         print("Entered invalid event type. See README for " "acceptable event types.")
         return False
+
+
+def collect_event_type_details_for_review(event_data: list, event_type: str) -> list:
+    events_to_review = []
+
+    for event in event_data:
+        if event["type"] == event_type:
+            events_to_review.append(event)
+
+    return events_to_review
+
+
+def prepare_data_for_tabulate(data: List[Dict], event_type: str) -> List[List]:
+    strategy = EVENT_TYPE_TO_EXTRACTION_STRATEGY_CROSSWALK[event_type]
+
+    events_to_review = []
+
+    for event in data:
+        tmp_event = EventType(event_data=event, extraction_strategy=strategy)
+
+        tmp_event_data = [
+            tmp_event.get_event_id(),
+            tmp_event.get_repo_name(),
+            tmp_event.get_title(),
+            tmp_event.get_action(),
+            tmp_event.get_recipient(),
+            tmp_event.get_created_date(),
+        ]
+
+        events_to_review.append(tmp_event_data)
+    
+    return events_to_review

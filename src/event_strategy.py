@@ -59,6 +59,7 @@ class PullRequestStrategy(EventExtractionStrategy):
         except:
             return "n/a"
 
+
 class PullRequestReviewStrategy(EventExtractionStrategy):
     def extract_title(self, event_data) -> str:
         return event_data["payload"]["pull_request"]["title"]
@@ -108,5 +109,3 @@ class EventType:
 
     def get_created_date(self):
         return self.extraction_strategy.extract_created_date(self.event_data)
-
-

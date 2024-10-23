@@ -1,4 +1,13 @@
 # Global Variables
+from src.event_strategy import (
+    IssueCommentStrategy,
+    IssueStrategy,
+    PullRequestReviewStrategy,
+    PullRequestStrategy,
+    PushStrategy,
+)
+
+
 GITHUB_API_URL = "https://api.github.com/users/"
 EVENT_TYPES = github_event_types = [
     "CommitCommentEvent",
@@ -59,8 +68,18 @@ EVENT_TYPE_ACTION_COUNT_CROSSWALK = {
 
 
 EVENT_TYPES_TO_REVIEW = [
-    "IssueCommentEvent" "IssuesEvent",
+    "IssueCommentEvent",
+    "IssuesEvent",
     "PullRequestEvent",
     "PullRequestReviewEvent",
     "PushEvent",
 ]
+
+
+EVENT_TYPE_TO_EXTRACTION_STRATEGY_CROSSWALK = {
+    "IssueCommentEvent": IssueStrategy(),
+    "IssuesEvent": IssueCommentStrategy(),
+    "PullRequestEvent": PullRequestStrategy(),
+    "PullRequestReviewEvent": PullRequestReviewStrategy(),
+    "PushEvent": PushStrategy(),
+}

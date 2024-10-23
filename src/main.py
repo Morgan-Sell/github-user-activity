@@ -32,7 +32,7 @@ def main():
         # for desc in descriptions:
         #     print(desc)
 
-        #
+        # ensure user submitted a valid event type
         valid_event_type = False
         while valid_event_type == False:
             user_event_type = input(
@@ -41,13 +41,7 @@ def main():
 
             valid_event_type = is_valid_event_type_to_review(user_event_type)
 
-    # payload_events = {}
-
-    # for event in data:
-    #     payload_events[event["type"]] = list(event["payload"].keys())
-
-    # with open("payload_events.json", "w") as json_file:
-    #     json.dump(payload_events, json_file, indent=4)
+        # generate details of GitHub's user events for the selected event type
 
 
 if __name__ == "__main__":

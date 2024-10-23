@@ -1,7 +1,8 @@
 import pytest
+
 from src.event_strategy import (
-    IssueCommentStrategy,
     EventType,
+    IssueCommentStrategy,
     IssueStrategy,
     PullRequestReviewStrategy,
     PullRequestStrategy,
@@ -130,20 +131,24 @@ def test_pull_request_review_get_event_id(pull_request_review_event):
     event = EventType(pull_request_review_event, strategy)
     assert event.get_event_id() == "43034004711"
 
+
 def test_pull_request_review_get_repo_name(pull_request_review_event):
     strategy = PullRequestReviewStrategy()
     event = EventType(pull_request_review_event, strategy)
     assert event.get_repo_name() == "death-row-records/all_eyez_on_code"
+
 
 def test_pull_request_review_get_title(pull_request_review_event):
     strategy = PullRequestReviewStrategy()
     event = EventType(pull_request_review_event, strategy)
     assert event.get_title() == "Fix for California Love flow mismatch"
 
+
 def test_pull_request_review_get_action(pull_request_review_event):
     strategy = PullRequestReviewStrategy()
     event = EventType(pull_request_review_event, strategy)
     assert event.get_action() == "submitted"
+
 
 def test_pull_request_review_get_recipient(pull_request_review_event):
     strategy = PullRequestReviewStrategy()
@@ -157,27 +162,72 @@ def test_push_get_event_id(github_events_complex):
     event = EventType(github_events_complex[3], strategy)
     assert event.get_event_id() == "104"
 
+
 def test_push_get_repo_name(github_events_complex):
     strategy = PushStrategy()
     event = EventType(github_events_complex[3], strategy)
     assert event.get_repo_name() == "bart-simpson/prank-code"
 
+
 def test_push_get_title(github_events_complex):
     strategy = PushStrategy()
     event = EventType(github_events_complex[3], strategy)
-    assert event.get_title() == "Implemented prank: Replace 'Principal Skinner's coffee with cola'"
+    assert (
+        event.get_title()
+        == "Implemented prank: Replace 'Principal Skinner's coffee with cola'"
+    )
+
 
 def test_push_get_action(github_events_complex):
     strategy = PushStrategy()
     event = EventType(github_events_complex[3], strategy)
     assert event.get_action() == "n/a"
 
+
 def test_push_get_recipient(github_events_complex):
     strategy = PushStrategy()
     event = EventType(github_events_complex[3], strategy)
     assert event.get_recipient() == "n/a"
 
+
 def test_push_get_created_date(github_events_complex):
     strategy = PushStrategy()
     event = EventType(github_events_complex[3], strategy)
     assert event.get_created_date() == "2024-10-20T11:00:00Z"
+
+
+## -- EventType Test Cases --
+def test_get_event_id(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert event.get_event_id() == "43034004711"
+
+
+def test_get_repo_name(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert event.get_repo_name() == "death-row-records/all_eyez_on_code"
+
+
+def test_get_title(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert event.get_title() == "Fix for California Love flow mismatch"
+
+
+def test_get_action(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert event.get_action() == "submitted"
+
+
+def test_get_recipient(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert event.get_recipient() == "SnoopDogg"
+
+
+def test_get_created_date(pull_request_review_event):
+    strategy = PullRequestReviewStrategy()
+    event = EventType(pull_request_review_event, strategy)
+    assert datetime_to_iso8601(event.get_created_date()) == "2024-10-21T08:14:11Z"
