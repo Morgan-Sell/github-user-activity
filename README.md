@@ -174,12 +174,12 @@ For example, you might add a `CreationStrategy` to track repository, branch, and
 
 ## Troubleshooting
 
-Virtual environment issues: If the virtual environment isn't activating, ensure Python 3.11+ is installed and that the virtual environment has been correctly set up by running `./run.sh setup-venv`.
+- Virtual environment issues: If the virtual environment isn't activating, ensure Python 3.11+ is installed and that the virtual environment has been correctly set up by running `./run.sh setup-venv`.
 
-Environment variables: Ensure that the `.env` file exists and contains the correct `GITHUB_TOKEN`. Without this token, the application cannot access the GitHub API.
+- Environment variables: Ensure that the `.env` file exists and contains the correct `GITHUB_TOKEN`. Without this token, the application cannot access the GitHub API.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgement
-This application was built following the architecture outlined in [roadmap.sh's GitHub User Activity project](https://roadmap.sh/projects/github-user-activity)
+This application was built following the architecture outlined in [roadmap.sh's GitHub User Activity project](https://roadmap.sh/projects/github-user-activity).
