@@ -89,8 +89,11 @@ The application will then ask if you would like to see details of a specific eve
 
 The application will generate a table showcasing the details of the selected GitHub event, which in this example is a PR review.
 
+<p align="center">
+  <img src="./img/strategy_pattern_diagram.png" alt="Strategy Pattern Diagram" width="500"/>
+</p>
 
-![PR Review Table](./img/event_table.png)
+
 
 The application will then ask if you would like to view another GitHub user's activity. You can continue to collect GitHub users' activity and request details on accepted event type for a long as you wish.
 
