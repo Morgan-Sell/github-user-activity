@@ -362,3 +362,25 @@ The project structure is as follows:
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 └── run.sh                 # Shell script for setup and execution
+```
+
+## Example
+
+To extend the application with a new type of GitHub activity, follow these steps:
+
+1. Create a new strategy class in `event_strategy.py` that implements the behavior for the new event.
+2. Update the event dispatcher in `main.py` to handle the new event type.
+
+For example, you might add a `CreationStrategy` to track repository, branch, and tag creation events and register it within the system without modifying the core logic.
+
+## Troubleshooting
+
+Virtual environment issues: If the virtual environment isn't activating, ensure Python 3.11+ is installed and that the virtual environment has been correctly set up by running `./run.sh setup-venv`.
+
+Environment variables: Ensure that the `.env` file exists and contains the correct `GITHUB_TOKEN`. Without this token, the application cannot access the GitHub API.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Acknowledgement
+This application was built following the architecture outlined in [roadmap.sh's GitHub User Activity project](https://roadmap.sh/projects/github-user-activity)
